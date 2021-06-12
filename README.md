@@ -162,13 +162,13 @@ The information architecture was organized in a **hierarchial tree structure** i
 Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file/pRD2Oi1aSuYxhFacqOmUfT/Kryan-Live?node-id=0%3A1) with providing a positive user experience in mind:
 
 Small screens
-<img src="wireframes/wireframe-small" alt="wireframe of small screen">
+<img src="wireframes/wireframe-small.png" alt="wireframe of small screen">
 Medium sized screens
 
-<img src="wireframes/wireframe-medium" alt="wireframe of medium screen">
+<img src="wireframes/wireframe-medium.png" alt="wireframe of medium screen">
 
 Large screens
-<img src="wireframes/wireframe-medium" alt="wireframe of large screen">
+<img src="wireframes/wireframe-medium.png" alt="wireframe of large screen">
 
 ![Bio Page Wireframe](assets/readme-files/bio.png "Bio Page Wireframe")
 
