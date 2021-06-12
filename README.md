@@ -161,13 +161,17 @@ The information architecture was organized in a **hierarchial tree structure** i
 #### Skeleton 
 Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file/pRD2Oi1aSuYxhFacqOmUfT/Kryan-Live?node-id=0%3A1) with providing a positive user experience in mind:
 
-Home Page:
-![Home Page Wireframe](assets/readme-files/home.png "Home Page Wireframe")
+Small screens
+<img src="wireframes/wireframe-small" alt="wireframe of small screen">
+Medium sized screens
 
-Bio Page:
+<img src="wireframes/wireframe-medium" alt="wireframe of medium screen">
+
+Large screens
+<img src="wireframes/wireframe-medium" alt="wireframe of large screen">
+
 ![Bio Page Wireframe](assets/readme-files/bio.png "Bio Page Wireframe")
 
-Live Page:
 ![Live Page Wireframe](assets/readme-files/live.png "Live Page Wireframe")
 
 Press Kit Page:
