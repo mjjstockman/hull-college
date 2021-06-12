@@ -163,12 +163,12 @@ Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file
 
 Small screens
 <img src="wireframes/wireframe-small.png" alt="wireframe of small screen">
-Medium sized screens
 
+Medium sized screens
 <img src="wireframes/wireframe-medium.png" alt="wireframe of medium screen">
 
 Large screens
-<img src="wireframes/wireframe-medium.png" alt="wireframe of large screen">
+<img src="wireframes/wireframe-large.png" alt="wireframe of large screen">
 
 ![Bio Page Wireframe](assets/readme-files/bio.png "Bio Page Wireframe")
 
