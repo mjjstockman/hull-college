@@ -1,4 +1,4 @@
-# Kryan Live
+# Hull College
 
 ![KryanLive Mockup Images](assets/readme-files/mockup.png)
 
@@ -49,18 +49,22 @@ The main requirements were to make a responsive and static website with a minimu
 
 ### Ideal User Demographic
 #### The ideal user of this website is:
-- Potential fans
-- Current fans
-- Media outlets
-- Event bookers
+- Potential students
+
 
 ### User Stories
-#### New/Potential Fans Goals:
-1. As a new fan, I want to easily navigate through the website to find the relevant content, effortlessly.
-2. As a new fan, I want to learn more about the artist's background in order to better understand Kryan and their music.
-3. As a new fan, I want to easily navigate to the artist's social links in order to keep up with the latest news and releases.
-4. As a new fan, I want to easily find links to the hosted music platform of my choice, in order to listen to Kryan.
-5. As a new fan, I want to be able to watch an embedded video to be able to get a snapshot of Kryan performing.
+
+1. As a potential student, I want to quickly see what courses are offered so I can see if they are of interest.
+
+2. As a potential student, I want to see some general information about the college so I can find out a bit bout it.
+
+3. As a potential student, I want to be able to contact the college so that I can ask any questions I have about the college.
+
+ADD ACCEPTANCE CRITERIA'S?? WATCH https://us02web.zoom.us/rec/play/9FIKllHX2ZiQNFRhYPn_hBh_ZeA8964ZvIDLnhpKGAf1NLVc3_hBJ6zSL8Hv5Hx7ALnPtDmbg8CmFAs.YVsZ9LR_uI7OjEwH
+
+GIVE HAPPY PATH (when user does as expected), and SAD PATH (if put in incorecct info etc and user gets alerted)
+
+TECHNICAL IMPLEMENTATION (how will implement feature, eg, a form will be added with x, x and x required, email must be email etc. user alerted if incoreect input)
 
 #### Current Fans Goals:
 1. As a current fan, I want to navigate to information about upcoming live events in order to securely order tickets.
@@ -180,14 +184,24 @@ Press Kit Page:
 ### Design
 
 #### Colour Scheme
+
+Blue was chosen as the main colour for the site.  Research had shown that this is a colour associated with reliability, productivity, trust and order, which are the principles the college wish to promote. 
+
+Coolors.co was then used to find a complementray colour platette, with the following decided upon:
+
+
+
 The main colours used throughout the website are a mixture of Black and White, with Red accents.
 
 The chosen colour scheme is a reflection of the artist's look and feel.
 
 #### Typography
-The pairing of the fonts [Roboto](https://fonts.google.com/specimen/Roboto "Link to Roboto Google Font") and [Lato](https://fonts.google.com/specimen/Lato "Link to Lato Google Font") is used throughout the website with Sans Serif as the fallback font in case of import failure. 
+Typespiration.com was used to find complimenting Google Font pairings, with the following decided upon:
 
-For features that needed to be highlighted, such as the featured single on the Homepage, the font [Montserrat](https://fonts.google.com/specimen/Montserrat "Link to Montserrat Google Font") was used, with Sans Serif as the fallback. This was in order to create a consistency with the digital artwork of the single's release.
+Headings: Open Sans, with a fallback of Sans-serif. 
+Body: Crimson, with a fallback of Serif.
+
+ADD IMG??
 
 #### Imagery
 The selected imagery is modern and cohesively aesthetic, reflecting the artist's look and feel. 
@@ -199,6 +213,33 @@ All imagery provides alternative text to be used in the event that the element c
 [Back to top ⇧](#Kryan-Live)
 
 ## Features
+
+- __Navigation Bar__
+
+	- The navigation bar allows the user to easily select which area of the site they wish to view.  It will be located at the top of the site as this is common practice and is the area where most users eyes will be initially drawn to.  It will be 'sticky', meaning it will stay at the top of the users screen even when they scroll the site.  This is because the site is a one page design and it is essential for the user to always be able to navigate the site wherever their current position.  When a link is hovered over it becomes underlined to help the user confirm they are about to select the releavnt link.
+
+The 'hamburger' icon was not used on small screens (where the navigation bar will collapse and be represented as three horizontal lines.  When touched/clicked, this would reveal the navigation in a dropdown menu).    This is often done due to the limited real estate space making the text hard to read when the screen is this size.  However, this design was not used to make the site more easy to navigate for all users.  Furthermore the navigation only contains THREE?? links so they have the space to remain next to each other still on small screens without causing accessibility and design issues.
+
+ADD IMAGE INFORMATION
+
+Information Box
+A small box containing introductory information is placed below the image.  This is eye-catching and quickly confirms to the user that they are on the correct site.  It offers general information on the college so users quickly get a feel for the college.
+
+- __Our Courses Section__
+
+This section lists the courses available at the college so users can quickly see if they offer a course they are interested in.  Icons from Font Awesome are used for the courses to add visual interest and to make each course quickly identifiable and more memorable.
+
+
+- __Contact Section__
+
+This section allows the user to easily contact the college by using a form to send a message.  The fields are clearly marked, all required and the email field must contain a valid email.  The Submit button is a bright distinctive colour, acting as a call to action for the user.
+
+
+- __Footer__
+
+The footer feature at the bottom of the page contains links to Hull College's social media links.  This will help users find more information.  The links open in a new tab so users are not taken away from Hull College's website.
+
+ADD IMAGES FOR FEATURES.
 
 ### Design Features
 Each page of the website features a consistent responsive navigational system:
