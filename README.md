@@ -187,9 +187,9 @@ Press Kit Page:
 
 Blue was chosen as the main colour for the site.  Research had shown that this is a colour associated with reliability, productivity, trust and order, which are the principles the college wish to promote. 
 
-Coolors.co was then used to find a complementray colour platette, with the following decided upon:
+Coolors.co was then used to find a mix of blues for the main colour platette, with the following decided upon:
 
-
+<img src="readme-images/other/blue-colours.png" alt="Blue colour shades">
 
 The main colours used throughout the website are a mixture of Black and White, with Red accents.
 
