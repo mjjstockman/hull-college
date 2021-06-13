@@ -10,7 +10,19 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+/* headings and logo */
 h1,
 h2 {
     font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+#logo img {
+    float: left;
+}
+
+#logo h1 {
+    font-size: 300%;
+    float: left;
 }
