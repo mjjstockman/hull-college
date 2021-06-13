@@ -198,8 +198,8 @@ The chosen colour scheme is a reflection of the artist's look and feel.
 #### Typography
 Typespiration.com was used to find complimenting Google Font pairings, with the following decided upon:
 
-Headings: Open Sans, with a fallback of Sans-serif. 
-Body: Crimson, with a fallback of Serif.
+Headings: Roboto Condensed, with a fallback of sans-serif. 
+Body: Poppins, with a fallback of sans-serif.
 
 ADD IMG??
 
