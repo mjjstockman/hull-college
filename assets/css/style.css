@@ -10,7 +10,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-/* headings and logo */
+/* headings and header */
 h1,
 h2 {
     font-family: "Roboto Condensed", sans-serif;
@@ -18,11 +18,48 @@ h2 {
     letter-spacing: 0.1em;
 }
 
+header {
+    margin: 1em;
+}
+
 #logo img {
     float: left;
+    height: 100px;
+    padding-right: 0.5em;
 }
 
 #logo h1 {
     font-size: 300%;
     float: left;
+    line-height: 100px;
+}
+
+/* navigation */
+nav {
+    float: right;
+    font-size: 200%;
+    letter-spacing: 0.1em;
+    line-height: 100px;
+}
+
+nav li {
+    float: left;
+    list-style-type: none;
+}
+
+nav li + li {
+    margin-left: 1em;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {
+    border-bottom: 2px solid black;
+}
+
+.active {
+    border-bottom: 2px solid black;
 }
