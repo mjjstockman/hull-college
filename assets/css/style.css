@@ -95,6 +95,11 @@ nav a:hover {
 .award-container {
     float: left;
     width: 25%;
+    box-sizing: border-box;
+}
+
+.award-container + .award-container {
+    padding-left: 110px;
 }
 
 .award-container img {
