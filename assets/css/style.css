@@ -19,7 +19,9 @@ h2 {
 }
 
 header {
-    margin: 1em;
+    padding: 1em;
+    background-color: red;
+    overflow: hidden;
 }
 
 #logo img {
@@ -69,3 +71,4 @@ nav a:hover {
     width: 100%;
     height: auto;
 }
+
