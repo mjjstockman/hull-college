@@ -93,10 +93,11 @@ nav a:hover {
 }
 
 .award-container {
+    float: left;
     width: 25%;
 }
 
 .award-container img {
     width: 100%;
-    height: auto;
+    height: 300px;
 }
