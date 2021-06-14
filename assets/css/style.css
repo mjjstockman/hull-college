@@ -63,3 +63,9 @@ nav a:hover {
 .active {
     border-bottom: 2px solid black;
 }
+
+/* hero img */
+#hero-image {
+    width: 100%;
+    height: auto;
+}
