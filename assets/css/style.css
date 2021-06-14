@@ -80,4 +80,5 @@ nav a:hover {
 /* about section */
 #about {
     background-color: green;
+    padding: 0 5em;
 }
