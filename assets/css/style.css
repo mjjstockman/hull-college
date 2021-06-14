@@ -10,6 +10,11 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+section img  {
+    width: 100%;
+    height: auto;
+}
+
 /* headings and header */
 h1,
 h2 {
@@ -85,4 +90,13 @@ nav a:hover {
 #about {
     background-color: green;
     padding: 0 5em;
+}
+
+.award-container {
+    width: 25%;
+}
+
+.award-container img {
+    width: 100%;
+    height: auto;
 }
