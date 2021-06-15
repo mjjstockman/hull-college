@@ -90,6 +90,7 @@ nav a:hover {
 #about {
     background-color: green;
     padding: 0 5em;
+    overflow: hidden;
 }
 
 .award-container {
