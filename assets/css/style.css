@@ -131,8 +131,14 @@ nav a:hover {
     padding: 1em;
 }
 
+
+
 /* contact section */
 #contact-section {
     clear: both;
+}
+
+.courses-container img {
+    height: 150px;
 }
 
