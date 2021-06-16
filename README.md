@@ -353,6 +353,8 @@ The developer ran into a number of issues during the development of the websites
 white space below image
 https://mor10.com/removing-white-space-image-elements-inline-elements-descenders/
 
+page taking long time to load, image size
+
 **Navbar Bug** - A bug was detected early on with the Navigation bar. In implementing a responsive navigation system, Bootstrap was used but there was bug that would not allow the navbar to be recolored to suit the the chosen colour scheme. In researching a cause (and solution) the developer found a question posted on [Stack Overflow](https://stackoverflow.com/questions/46237610/bootstrap-4-navbar-color-wont-change "Link to Stack Overflow solution") with a similar problem. It was from here that the developer was able to copy and edit the code given as a solution on Stack in order to implement a solution to the bug, with celebratory success.
 
 **Home Page Responsiveness Bug** - A bug was detected in creating the HomePage where the mobile-first design approach was responsive but as soon as the breakpoint changed to a larger screen, the page layout would shift, creating inconsistencies in the design. In order to rectify this, the developer utilized a solution posted for a similar problem on [Stack Overflow](https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-and-vertically-inside-a-div-block "Link to Stack Overflow solution"). With this solution, the developer was able to create the desired responsiveness without having to use excessive and unnecessary lines of code.
