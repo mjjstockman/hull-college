@@ -121,5 +121,18 @@ nav a:hover {
 
 #courses {
     clear: both;
+    padding: 0 5em;
+}
+
+.courses-container {
+    float: left;
+    box-sizing: border-box;
+    width: 33.3%;
+    padding: 1em;
+}
+
+/* contact section */
+#contact-section {
+    clear: both;
 }
 
