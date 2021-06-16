@@ -110,9 +110,16 @@ nav a:hover {
 
 .award-container img {
     width: 100%;
-    height: 200px;
+    height: 150px;
 }
+
+#satisfaction-heading {
+    clear: both;
+}
+
+/* courses section */
 
 #courses {
     clear: both;
 }
+
