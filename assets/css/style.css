@@ -132,13 +132,18 @@ nav a:hover {
     padding: 1em;
 }
 
+.courses-container img {
+    height: 210px;
+}
+
 /* contact section */
 #contact-section {
     clear: both;
     background-color: aqua;
 }
 
-.courses-container img {
-    height: 210px;
+form {
+    float:left;
+    width: 50%;
 }
 
