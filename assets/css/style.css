@@ -103,14 +103,13 @@ nav a:hover {
 
 .award-container div {
     height: 200px;
-    line-height: 200px;
     font-size: 450%;
     color: purple;
 }
 
 .award-container img {
     width: 100%;
-    height: 150px;
+    height: 170px;
 }
 
 #satisfaction-heading {
@@ -121,7 +120,9 @@ nav a:hover {
 
 #courses {
     clear: both;
+    overflow: hidden;
     padding: 0 5em;
+    background-color: pink;
 }
 
 .courses-container {
@@ -131,14 +132,13 @@ nav a:hover {
     padding: 1em;
 }
 
-
-
 /* contact section */
 #contact-section {
     clear: both;
+    background-color: aqua;
 }
 
 .courses-container img {
-    height: 150px;
+    height: 210px;
 }
 
