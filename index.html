@@ -170,24 +170,25 @@
 
     <section id="contact-section">
         <h1>Contact</h1>
+        <div>
+            <form method="POST" action="#">
+                <label for="fname">First Name</label>
+                <input id="fname" name="first_name" type="text" required>
 
-        <form method="POST" action="#">
-            <label for="fname">First Name</label>
-            <input id="fname" name="first_name" type="text" required>
+                <label for="lname">Last Name</label>
+                <input id="lname" name="last_name" type="text" required>
 
-            <label for="lname">Last Name</label>
-            <input id="lname" name="last_name" type="text" required>
+                <label for="email">Email Address</label>
+                <input id="email" name="email_address" type="email" required>
 
-            <label for="email">Email Address</label>
-            <input id="email" name="email_address" type="email" required>
+                <div id="form-message">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" required></textarea>
+                </div>
 
-            <div id="form-message">
-                <label for="message">Message</label>
-                <textarea id="message" name="message" rows="8" cols="50" required></textarea>
-            </div>
-
-            <input type="submit">
-        </form>
+                <input type="submit">
+            </form>
+        </div>
 
         <div class="mapouter">
             <div class="gmap_canvas"><iframe class="gmap_iframe"
