@@ -140,7 +140,8 @@ nav a:hover {
     clear: both;
     background-color: aqua;
     overflow: hidden;
-    padding: 0 3em;
+    padding: 0 3em 2em;
+
 }
 
 form {
@@ -200,5 +201,28 @@ input[type=submit] {
     height: 621px !important;
     width: 100%;
     display: block;
+}
+
+/* footer */
+footer {
+    clear: both;
+}
+#social-networks {
+    text-align: center;
+    background-color: red;
+}
+
+#social-networks > li {
+    display: inline;
+}
+
+#social-networks li + li {
+    margin-left: 10%;
+}
+
+#social-networks i {
+    font-size: 402%;
+    color: #252627;
+    padding: 1rem;
 }
 
