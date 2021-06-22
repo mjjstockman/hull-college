@@ -140,30 +140,32 @@ nav a:hover {
     clear: both;
     background-color: aqua;
     overflow: hidden;
-    padding: 0 2em;
+    /* padding: 0 3em; */
 }
 
 #contact-form {
-    display: block;
+    /* display: block; */
 }
 
 form {
     float: left;
-    width: 50%;
+    width: 45%;
     border: 2px solid black;
-    border-radius: 25px;
+    /* border-radius: 10px; */
     padding: 2em 5em;
+    /* margin: 1em; */
 }
 
 label {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.25em;
     display: inline-block;
+    font-size: 125%;
 }
 
 input {
     width: 100%;
     padding: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 1.75em;
 }
 
 textarea {
@@ -172,7 +174,11 @@ textarea {
 }
 
 #form-message {
-    padding: 2em 0 1em;
+    padding-top: 1.5em;
+}
+
+input[type=submit] {
+    margin-bottom: 1em;
 }
 /* map */
 
@@ -183,13 +189,20 @@ textarea {
 }
 
 .gmap_canvas {
+    float: right;
     overflow: hidden;
     background: none !important;
-    width: 50%;
+    width: 45%;
+    border: 2px solid black;
+    border-radius: 10px;
 }
 
 .gmap_iframe {
-    height: 575px !important;
+    height: 571px !important;
     width: 100%;
-    border-radius: 25px;
+    border-radius: 10px;
+    /* padding: 0 1em; */
+    display: block;
+    /* margin-left: 1em; */
 }
+
