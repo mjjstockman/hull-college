@@ -32,7 +32,7 @@ h2 {
 }
 
 header {
-    padding: 1em;
+    padding: 1em 2em;
     background-color: red;
     overflow: hidden;
 }
@@ -226,3 +226,51 @@ footer {
     padding: 1rem;
 }
 
+/* media queries */
+
+@media screen and (max-width: 940px) {
+    header {
+        padding: 0;
+    }
+
+    #logo img {
+        height: 50px;
+        width: auto;
+        padding-right: 0.25em;
+        float: none;
+        vertical-align: middle;
+    }
+
+
+    #logo h1 {
+        font-size: 150%;
+        float: none;
+    }
+    
+    #logo {
+        float: none;
+        margin: 0 auto; 
+        clear: both;
+    }
+    
+    #menu {
+        float: none;
+        width: 100%;
+        line-height: unset;
+    }
+
+    /* 
+    nav {
+        padding-top: 10px;
+    }
+
+    nav li {
+        text-align: center;
+        width: 30%;
+        font-size: 75%;
+    }
+
+    #menu li + li {
+        margin: 0;
+    } */
+}
