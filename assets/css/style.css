@@ -227,7 +227,7 @@ footer {
 }
 
 /* media queries */
-@media screen and (max-width: 940px) {
+@media screen and (max-width: 952px) {
     header {
         padding: 1em;
     }
