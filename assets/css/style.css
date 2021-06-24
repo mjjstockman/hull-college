@@ -272,4 +272,12 @@ footer {
     .award-container {
         width: 50%;
     }
+
+    .courses-container {
+        float: left;
+        width: 50%;
+        padding: 1em;
+    }
+
+
 }
