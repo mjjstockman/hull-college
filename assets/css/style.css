@@ -63,7 +63,7 @@ nav li {
     list-style-type: none;
 }
 
-nav li+li {
+nav li + li {
     margin-left: 1em;
 }
 
@@ -227,24 +227,24 @@ footer {
 }
 
 /* media queries */
-
 @media screen and (max-width: 940px) {
     header {
-        padding: 0;
+        padding: 1em;
     }
 
     #logo img {
-        height: 50px;
+        height: 75px;
         width: auto;
         padding-right: 0.25em;
         float: none;
         vertical-align: middle;
     }
 
-
     #logo h1 {
-        font-size: 150%;
+        font-size: 175%;
         float: none;
+        padding: 0;
+        line-height: 0;
     }
     
     #logo {
@@ -253,24 +253,19 @@ footer {
         clear: both;
     }
     
-    #menu {
-        float: none;
+    nav {
         width: 100%;
         line-height: unset;
     }
 
-    /* 
-    nav {
-        padding-top: 10px;
-    }
-
     nav li {
         text-align: center;
-        width: 30%;
-        font-size: 75%;
+        width: 100%;
+        font-size: 100%;
+        padding: 0;
     }
 
-    #menu li + li {
+    nav li + li {
         margin: 0;
-    } */
+    }
 }
