@@ -268,4 +268,8 @@ footer {
     nav li + li {
         margin: 0;
     }
+
+    .award-container {
+        width: 50%;
+    }
 }
