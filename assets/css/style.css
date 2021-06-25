@@ -279,5 +279,22 @@ footer {
         padding: 1em;
     }
 
+    form {
+        float: none;
+        width: 100%;
+        margin-bottom: 2em;
+    }
+
+    textarea {
+        height: 100px;
+    }
+
+    .gmap_canvas {
+        float: none;
+        width: 100%;
+        border: 2px solid black;
+        border-radius: 15px;
+    }
+
 
 }
