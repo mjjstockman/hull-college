@@ -319,6 +319,10 @@ footer {
     #logo img {
         height: 50px;
     }
+
+    #social-networks i {
+        font-size: 300%;
+    }
 }
 
 @media screen and (max-width: 565px) {
