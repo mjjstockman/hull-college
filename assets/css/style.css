@@ -276,7 +276,8 @@ footer {
     }
 
     /* about section */
-    #about {
+    #about,
+    #courses {
         padding: 0 2.5em;
     }
 
@@ -312,6 +313,11 @@ footer {
 }
 
 @media screen and (max-width: 689px) {
+    #about,
+    #courses {
+        padding: 0 1.5em;
+    }
+
     .courses-container {
         width: 100%;
     }
