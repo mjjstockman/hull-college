@@ -225,7 +225,7 @@ footer {
 #social-networks i {
     font-size: 402%;
     color: #252627;
-    padding: 1rem;
+    padding: 0.25em 0;
 }
 
 /* media queries */
