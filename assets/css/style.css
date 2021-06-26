@@ -276,6 +276,10 @@ footer {
     }
 
     /* about section */
+    #about {
+        padding: 0 2.5em;
+    }
+
     .award-container {
         width: 50%;
     }
