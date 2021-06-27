@@ -82,8 +82,8 @@ nav a:hover {
 
 /* hero img */
 #hero-image {
-    width: 100%;
-    height: auto;
+    /* width: 100%;
+    height: auto; */
     display: block;
 }
 
@@ -108,7 +108,7 @@ nav a:hover {
 }
 
 .award-container img {
-    width: 100%;
+    max-width: 300px;
     height: 170px;
 }
 
