@@ -82,8 +82,6 @@ nav a:hover {
 
 /* hero img */
 #hero-image {
-    /* width: 100%;
-    height: auto; */
     display: block;
 }
 
@@ -94,20 +92,23 @@ nav a:hover {
     overflow: hidden;
 }
 
-.award-container {
+.award-container,
+.satisfaction-container {
     float: left;
     width: 25%;
     padding: 2em;
     text-align: center;
 }
 
-.award-container div {
+.award-container div,
+.satisfaction-container div {
     height: 200px;
     font-size: 450%;
     color: purple;
 }
 
-.award-container img {
+.award-container img,
+.satisfaction-container img {
     max-width: 300px;
     height: 170px;
 }
