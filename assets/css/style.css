@@ -294,7 +294,8 @@ footer {
     }
 
     /* courses section */
-    .courses-container {
+    .courses-container,
+    .satisfaction-container {
         float: left;
         width: 50%;
         padding: 1em;
@@ -340,7 +341,8 @@ footer {
 }
 
 @media screen and (max-width: 565px) {
-    .courses-container {
+    .courses-container,
+    .satisfaction-container {
         width: 100%;
     }
 
