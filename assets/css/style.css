@@ -126,7 +126,7 @@ nav a:hover {
 #courses {
     clear: both;
     overflow: hidden;
-    padding: 0 1.5em;
+    padding: 0 5em;
     background-color: pink;
 }
 
@@ -281,13 +281,14 @@ footer {
     }
 
     /* about section */
-    #about {
+    #about, 
+    #courses {
         padding: 0 2.5em;
     }
 
-    #courses {
-        padding: 0 1.5em;
-    }
+    /* #courses {
+        padding: 0 2.5em;
+    } */
 
     .award-container {
         width: 50%;
@@ -342,10 +343,7 @@ footer {
 
 @media screen and (max-width: 565px) {
     .courses-container,
-    .satisfaction-container {
-        width: 100%;
-    }
-
+    .satisfaction-container,
     .award-container {
         width: 100%;
     }
