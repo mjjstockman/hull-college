@@ -33,7 +33,7 @@ h2 {
 
 header {
     padding: 1em 2em;
-    background-color: red;
+    background-color: #0090ff;
     overflow: hidden;
 }
 
@@ -87,7 +87,7 @@ nav a:hover {
 
 /* about section */
 #about {
-    background-color: green;
+    background-color: #85DFFF;
     padding: 0 5em;
     overflow: hidden;
 }
@@ -127,7 +127,7 @@ nav a:hover {
     clear: both;
     overflow: hidden;
     padding: 0 5em;
-    background-color: pink;
+    background-color: #00D1EC;
 }
 
 #courses p {
@@ -151,7 +151,7 @@ nav a:hover {
 /* contact section */
 #contact-section {
     clear: both;
-    background-color: aqua;
+    background-color: #85DFFF;
     overflow: hidden;
     padding: 0 3em 2em;
 }
@@ -223,7 +223,7 @@ footer {
 
 #social-networks {
     text-align: center;
-    background-color: red;
+    background-color: #0090FF;
 }
 
 #social-networks>li {
