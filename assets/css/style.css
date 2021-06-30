@@ -141,7 +141,11 @@ nav a:hover {
 }
 
 .courses-container img {
-    height: 210px;
+    height: auto;
+}
+
+.courses-container h2 {
+    padding-top: 0.25em;
 }
 
 /* contact section */
