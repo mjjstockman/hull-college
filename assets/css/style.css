@@ -35,6 +35,7 @@ header {
     padding: 1em 2em;
     background-color: #0090ff;
     overflow: hidden;
+    z-index: 1;
 }
 
 .sticky {

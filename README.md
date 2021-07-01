@@ -111,6 +111,8 @@ https://mor10.com/removing-white-space-image-elements-inline-elements-descenders
 
 page taking long time to load, image size
 
+iframe above sticky nav. change z-index  https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling
+
 
 
 [Back to top ⇧](#Kryan-Live)
