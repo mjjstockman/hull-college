@@ -36,7 +36,7 @@ h2 {
 }
 
 header {
-    padding: 1em 1.5em;
+    padding: 1em;
     background-color: #0090ff;
     overflow: hidden;
     z-index: 1;
@@ -256,26 +256,19 @@ footer {
         scroll-padding-top: 141px; 
     }
     /* header */
-    header {
-        padding: 1em;
-    }
-
-    /* #logo img {
-        height: 75px;
-        width: auto;
-        padding-right: 0.25em;
-        float: none;
-        vertical-align: middle;
+    #logo img {
+        /* float: none;
+        vertical-align: middle; */
     }
 
     #logo h1 {
-        font-size: 175%;
-        float: none;
-        padding: 0;
-        line-height: 0;
+        /* font-size: 175%; */
+        /* float: none; */
+        /* padding: 0; */
+        /* line-height: 0; */
     }
 
-    #logo {
+    /* #logo {
         float: none;
         margin: 0 auto;
         clear: both;
@@ -340,6 +333,15 @@ footer {
 @media screen and (max-width: 689px) {
     html {
         scroll-padding-top: 117px; 
+    }
+
+    #logo img {
+        float: none;
+        vertical-align: middle;
+    }
+
+    #logo h1 {
+        float: none;
     }
 
     #about,
