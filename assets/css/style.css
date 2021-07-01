@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Condensed&display=swap');
 
 html {
-    scroll-padding-top: 125px; 
+    scroll-padding-top: 81px; 
 }
 
 * {
@@ -247,9 +247,9 @@ footer {
 
 /* media queries */
 @media screen and (max-width: 952px) {
-    html {
-        scroll-padding-top: 141px; 
-    }
+    /* html {
+        scroll-padding-top: 81px; 
+    } */
     
     /* about section */
     #about, 
@@ -291,7 +291,7 @@ footer {
 
 @media screen and (max-width: 689px) {
     html {
-        scroll-padding-top: 117px; 
+        scroll-padding-top: 109px; 
     }
 
     #logo img {
