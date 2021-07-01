@@ -129,12 +129,7 @@ nav a:hover {
     color: purple;
 }
 
-/* .satisfaction-container div {
-    line-height: 200px;
-} */
-
 /* courses section */
-
 #courses {
     clear: both;
     overflow: hidden;
@@ -179,7 +174,6 @@ form {
 label {
     margin-bottom: 0.25em;
     display: inline-block;
-    font-size: 125%;
 }
 
 input {
@@ -192,12 +186,12 @@ input {
 textarea {
     width: 100%;
     height: 120px;
+    padding: 1em;
     resize: none;
     border-radius: 5px;
 }
 
 #form-message {
-    padding-top: 1.5em;
     padding-bottom: 1em;
 }
 
