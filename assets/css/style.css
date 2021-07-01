@@ -111,15 +111,11 @@ nav a:hover {
     text-align: center;
 }
 
-.award-container div,
-.satisfaction-container div {
+.award-container div {
     height: 200px;
-    font-size: 450%;
-    color: purple;
 }
 
-.award-container img,
-.satisfaction-container img {
+.award-container img {
     max-width: 300px;
     height: 170px;
 }
@@ -129,8 +125,13 @@ nav a:hover {
 }
 
 .satisfaction-container div {
-    line-height: 200px;
+    font-size: 450%;
+    color: purple;
 }
+
+/* .satisfaction-container div {
+    line-height: 200px;
+} */
 
 /* courses section */
 
