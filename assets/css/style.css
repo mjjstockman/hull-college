@@ -253,7 +253,9 @@ footer {
 
 /* media queries */
 @media screen and (max-width: 952px) {
-
+    html {
+        scroll-padding-top: 141px; 
+    }
     /* header */
     header {
         padding: 1em;
@@ -337,6 +339,10 @@ footer {
 }
 
 @media screen and (max-width: 689px) {
+    html {
+        scroll-padding-top: 117px; 
+    }
+
     #about,
     #courses {
         padding: 0 1.5em;
@@ -356,6 +362,10 @@ footer {
 }
 
 @media screen and (max-width: 565px) {
+    html {
+        scroll-padding-top: 107px; 
+    }
+
     nav li {
         font-size: 70%;
     }
