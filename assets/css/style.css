@@ -25,14 +25,14 @@ h1,
 h2 {
     font-family: "Roboto Condensed", sans-serif;
     text-transform: uppercase;
-    font-size: 200%;
+    font-size: 150%;
     letter-spacing: 0.1em;
     text-align: center;
     padding: 1em 0 0.5em;
 }
 
 h2 {
-    font-size: 150%;
+    font-size: 125%;
 }
 
 header {
