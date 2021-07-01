@@ -37,6 +37,12 @@ header {
     overflow: hidden;
 }
 
+.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+
 #logo img {
     float: left;
     height: 100px;
