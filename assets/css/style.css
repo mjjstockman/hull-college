@@ -255,43 +255,7 @@ footer {
     html {
         scroll-padding-top: 141px; 
     }
-    /* header */
-    #logo img {
-        /* float: none;
-        vertical-align: middle; */
-    }
-
-    #logo h1 {
-        /* font-size: 175%; */
-        /* float: none; */
-        /* padding: 0; */
-        /* line-height: 0; */
-    }
-
-    /* #logo {
-        float: none;
-        margin: 0 auto;
-        clear: both;
-    } */
-
-    /* nav */
-    /* nav {
-        width: 100%;
-        line-height: unset;
-    }
-
-    nav li {
-        float: left;
-        text-align: center;
-        width: 33.3%;
-        font-size: 100%;
-        padding: 0;
-    }
-
-    nav li+li {
-        margin: 0;
-    } */
-
+    
     /* about section */
     #about, 
     #courses {
@@ -384,10 +348,6 @@ footer {
         scroll-padding-top: 107px; 
     }
 
-    nav li {
-        font-size: 70%;
-    }
-
     .courses-container,
     .satisfaction-container,
     .award-container {
@@ -398,5 +358,11 @@ footer {
 @media screen and (max-width: 500px) {
     #contact-section {
         padding: 0 1em 2em;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    nav li {
+        font-size: 95%;
     }
 }
