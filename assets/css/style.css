@@ -205,7 +205,6 @@ input[type=submit] {
 }
 
 /* map */
-
 .mapouter {
     position: relative;
     text-align: right;
@@ -261,7 +260,7 @@ footer {
         padding: 1em;
     }
 
-    #logo img {
+    /* #logo img {
         height: 75px;
         width: auto;
         padding-right: 0.25em;
@@ -280,10 +279,10 @@ footer {
         float: none;
         margin: 0 auto;
         clear: both;
-    }
+    } */
 
     /* nav */
-    nav {
+    /* nav {
         width: 100%;
         line-height: unset;
     }
@@ -298,7 +297,7 @@ footer {
 
     nav li+li {
         margin: 0;
-    }
+    } */
 
     /* about section */
     #about, 
