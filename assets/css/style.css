@@ -13,6 +13,7 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif;
+    color: #12130F;
 }
 
 section img {
@@ -150,7 +151,7 @@ nav a:hover {
 }
 
 .courses-container i {
-    color: black;
+    color: #12130F;
 }
 
 .courses-container h2 {
@@ -169,7 +170,7 @@ nav a:hover {
 form {
     float: left;
     width: 48%;
-    border: 2px solid black;
+    border: 2px solid #12130F;
     border-radius: 15px;
     padding: 2em 2em;
 }
@@ -216,7 +217,7 @@ input[type=submit] {
     overflow: hidden;
     background: none !important;
     width: 48%;
-    border: 2px solid black;
+    border: 2px solid #12130F;
     border-radius: 15px;
 }
 
@@ -289,7 +290,7 @@ footer {
     .gmap_canvas {
         float: none;
         width: 100%;
-        border: 2px solid black;
+        border: 2px solid #12130F;
         border-radius: 15px;
     }
 }
