@@ -128,7 +128,7 @@ nav a:hover {
 
 .satisfaction-container div {
     font-size: 450%;
-    color: purple;
+    color: #800080;
 }
 
 /* courses section */
@@ -149,12 +149,13 @@ nav a:hover {
     padding: 1em;
 }
 
-.courses-container img {
-    height: auto;
+.courses-container i {
+    color: black;
 }
 
 .courses-container h2 {
     padding-top: 0.25em;
+    color: #800080;
 }
 
 /* contact section */
@@ -199,6 +200,8 @@ textarea {
 
 input[type=submit] {
     margin-bottom: 1em;
+    background-color: #FAF482;
+    font-weight: bold;
 }
 
 /* map */
@@ -243,7 +246,7 @@ footer {
 
 #social-networks i {
     font-size: 206%;
-    color: #252627;
+    color: #FFFAFA;
     padding: 0.25em 0;
 }
 
