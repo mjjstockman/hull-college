@@ -114,7 +114,6 @@ page taking long time to load, image size
 iframe above sticky nav. change z-index  https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling
 
 
-
 [Back to top ⇧](#Kryan-Live)
 
 ## Technologies Used
@@ -213,6 +212,9 @@ The developer consulted multiple sites in order to better understand the code th
 - [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
 - [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
 - [JSfiddle](https://jsfiddle.net/ "Link to JSfiddle page")
+
+Javascript:
+https://codepen.io/malsu/pen/VwKzoPG
 
 [Back to top ⇧](#Kryan-Live)
 

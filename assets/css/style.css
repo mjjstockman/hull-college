@@ -160,7 +160,7 @@ nav a:hover {
 }
 
 /* contact section */
-#contact-section {
+#contact {
     clear: both;
     background-color: #00B4D8;
     overflow: hidden;
@@ -353,7 +353,7 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
-    #contact-section {
+    #contact {
         padding: 0 1em 2em;
     }
 }
