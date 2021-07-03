@@ -98,8 +98,8 @@ nav a:hover,
 }
 
 /* about section */
-#about {
-    background-color: #CAF0F8;
+#about { 
+    background-color: #caf0f8;
     padding: 0 5em;
     overflow: hidden;
 }
@@ -139,7 +139,7 @@ nav a:hover,
     clear: both;
     overflow: hidden;
     padding: 0 5em;
-    background-color: #90E0EF;
+    background-color: #90e0ef;
 }
 
 #courses p {
@@ -164,7 +164,7 @@ nav a:hover,
 /* contact section */
 #contact {
     clear: both;
-    background-color: #00B4D8;
+    background-color: #00b4d8;
     overflow: hidden;
     padding: 0 3em 2em;
 }
@@ -172,7 +172,7 @@ nav a:hover,
 form {
     float: left;
     width: 48%;
-    border: 2px solid #12130F;
+    border: 2px solid #12130f;
     border-radius: 15px;
     padding: 2em 2em;
 }
@@ -203,9 +203,10 @@ textarea {
 
 input[type=submit] {
     margin-bottom: 1em;
-    background-color: #FAF482;
+    background-color: #faf482;
     color: #800080;
     font-weight: bold;
+    border: 1px solid #12130f;
 }
 
 /* map */
@@ -220,7 +221,7 @@ input[type=submit] {
     overflow: hidden;
     background: none !important;
     width: 48%;
-    border: 2px solid #12130F;
+    border: 2px solid #12130f;
     border-radius: 15px;
 }
 
@@ -250,16 +251,12 @@ footer {
 
 #social-networks i {
     font-size: 206%;
-    color: #FFFAFA;
+    color: #fffafa;
     padding: 0.25em 0;
 }
 
 /* media queries */
 @media screen and (max-width: 952px) {
-    /* html {
-        scroll-padding-top: 81px; 
-    } */
-    
     /* about section */
     #about, 
     #courses {
@@ -293,7 +290,7 @@ footer {
     .gmap_canvas {
         float: none;
         width: 100%;
-        border: 2px solid #12130F;
+        border: 2px solid #12130f;
         border-radius: 15px;
     }
 }

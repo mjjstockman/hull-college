@@ -42,19 +42,24 @@ Blue was chosen as the main colour for the site.  Research had shown that this i
 
 Coolors.co was then used to find a mix of blues for the main colour platette, with the following decided upon:
 
-<img src="readme-images/other/blue-colours.png" alt="Blue colour shades">
+Header: #03045e
+About: #caf0f8
+Courses: #90e0ef
+Contact: #00b4d8
+Footer: #0077b6
 
-The main colours used throughout the website are a mixture of Black and White, with Red accents.
+<img src="readme-images/other/blue-colours.png" alt="Blue colour scheme from Coolors.co">
 
-The chosen colour scheme is a reflection of the artist's look and feel.
+Main text: #12130f
+Navigation and footer text/icons: #fffafa
+Accent color: #800080
+Sumbit button: #faf482
 
 #### Typography
 Typespiration.com was used to find complimenting Google Font pairings, with the following decided upon:
 
 Headings: Roboto Condensed, with a fallback of sans-serif. 
 Body: Poppins, with a fallback of sans-serif.
-
-ADD IMG??
 
 ## Features
 
