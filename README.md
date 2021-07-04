@@ -26,7 +26,7 @@ TECHNICAL IMPLEMENTATION (how will implement feature, eg, a form will be added w
 ### Wireframes
 
 Small screens
-<img src="wireframes/wireframe-small.png" alt="wireframe of small screen">
+<img src="assets/images/wireframes/small.png" alt="wireframe of small screen">
 
 Medium sized screens
 <img src="wireframes/wireframe-medium.png" alt="wireframe of medium screen">
