@@ -29,10 +29,10 @@ Small screens
 <img src="assets/images/wireframes/small.png" alt="wireframe of small screen">
 
 Medium sized screens
-<img src="wireframes/wireframe-medium.png" alt="wireframe of medium screen">
+<img src="assets/images/wireframes/medium.png" alt="wireframe of medium screen">
 
 Large screens
-<img src="wireframes/wireframe-large.png" alt="wireframe of large screen">
+<img src="assets/images/wireframes/large.png" alt="wireframe of large screen">
 
 ### Design
 
