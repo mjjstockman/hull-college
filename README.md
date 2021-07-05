@@ -87,17 +87,17 @@ A brief description of the four awards the college has won is displayed under ca
 
 - __Courses Section__
 
-This section contains images for the courses available at the college so users can quickly see if they offer a course they are interested in.  Icons from Font Awesome are used for the courses to add visual interest and to make each course quickly identifiable and more memorable.  On large screens the courses are
+This section contains images for the courses available at the college so users can quickly see if they offer a course they are interested in.  Icons from Font Awesome are used for the courses to add visual interest and to make each course quickly identifiable and more memorable.  On large screens the courses are displayed three in a row, changing to two and then one as the screen gets smaller.
 
 - __Contact Section__
 
-This section allows the user to easily contact the college by using a form to send a message.  The fields are clearly marked, all required and the email field must contain a valid email.  The Submit button is a bright distinctive colour, acting as a call to action for the user.
+This section allows the user to easily contact the college by using a form to send a message.  The fields are clearly marked, all required and the email field must contain a valid email.  The message is limited to 400 characters to keep them succint and reduce the amount of characters needed to be stored in the database.  The Submit button is a bright distinctive colour, acting as a call to action for the user.
 
 A map showing the college's location is also included in this section, allowing users to quickly identify where the college is based.
 
 - __Footer__
 
-The footer feature at the bottom of the page contains links to Hull College's social media links.  This will help users find more information.  The links open in a new tab so users are not taken away from Hull College's website.
+The footer feature at the bottom of the page contains links to Hull College's social media links.  This will help users find more information and stay up to date with the college.  The links open in a new tab so users are not taken away from Hull College's website.  They are the same colour as those in the navigation for consistency and to help them stand out.
 
 ADD IMAGES????
 
