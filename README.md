@@ -13,9 +13,11 @@ The target market are individuals who are wanting to find out more about the col
 
 1. As a potential student, I want to quickly see what courses are offered so I can see if they are of interest.
 
-2. As a potential student, I want to see some general information about the college so I can find out a bit bout it.
+2. As a potential student, I want to see some general information about the college so I can find out a bit about it.
 
-3. As a potential student, I want to be able to contact the college so that I can ask any questions I have about the college.
+3. As a potential student, I want to see facts and figures on the college's success so I can gauge whether I want to enroll. 
+
+4. As a potential student, I want to be able to contact the college so that I can ask any questions I have about the college.
 
 ADD ACCEPTANCE CRITERIA'S?? WATCH https://us02web.zoom.us/rec/play/9FIKllHX2ZiQNFRhYPn_hBh_ZeA8964ZvIDLnhpKGAf1NLVc3_hBJ6zSL8Hv5Hx7ALnPtDmbg8CmFAs.YVsZ9LR_uI7OjEwH
 
@@ -65,21 +67,27 @@ Body: Poppins, with a fallback of sans-serif.
 
 - __Navigation Bar__
 
- The navigation bar allows the user to easily select which area of the site they wish to view.  It will be located at the top of the site as this is common practice and is the area where most users eyes will be initially drawn to.  It will be 'sticky', meaning it will stay at the top of the users screen even when they scroll the site.  This is because the site is a one page design and it is essential for the user to always be able to navigate the site wherever their current position.  When a link is hovered over it becomes underlined to help the user confirm they are about to select the releavnt link.
+ The navigation bar allows the user to easily select which area of the site they wish to view.  It will be located at the top of the site as this is common practice and is the area where most users eyes will be initially drawn to.  It will be 'sticky', meaning it will stay at the top of the users screen even when they scroll the site.  This is because the site is a one page design and it is essential for the user to always be able to navigate the site wherever their current position.  When a link is hovered over it becomes underlined to help the user confirm they are about to select the releavnt link.  The underline reamins once selected and the relevant navigation link is highlighted when the site is scorlled.  
 
-The 'hamburger' icon was not used on small screens (where the navigation bar will collapse and be represented as three horizontal lines.  When touched/clicked, this would reveal the navigation in a dropdown menu).    This is often done due to the limited real estate space making the text hard to read when the screen is this size.  However, this design was not used to make the site more easy to navigate for all users.  Furthermore the navigation only contains three links so they have the space to remain next to each other still on small screens without causing accessibility and design issues.
+The 'hamburger' icon was not used on small screens (where the navigation bar will collapse and be represented as three horizontal lines.  When touched/clicked, this would reveal the navigation in a dropdown menu).    This is often done due to the limited real estate space making the text hard to read when the screen is this size.  However, this design was not used to make the site more easy to navigate for all users.  Furthermore the navigation only contains three links so they have the space to remain next to each other still on small screens without causing accessibility and design issues.  However, the logo will be centered and the navigation drop below at a maximum width of 689px.
 
 - __Hero Image__
 
-ADD INFO ON IMAGE
+An eye-catching full screen image is placed under the navigation.  This helps grab the users attention and convey positive, professional feelings.  
+
+- __About Section__
 
 - __About Information Box__
 
 A small box containing introductory information is placed below the hero image.  This is eye-catching and quickly confirms to the user that they are on the correct site.  It offers general information on the college so users quickly get a feel for the college.
 
+Award Winning and Student Satisfaction
+
+A brief description of the four awards the college has won is displayed under cartoon images of awards.  Beneath these are statistics of student success and recomendations.  These help to install confidence in the quality of the college and help conversion rates of those viewing the site to enroll.  Larger screens  display the awards and statistics four in a row, reducing to two and then stacked on top of each other as screens get smalller.  This is to give the user the best experience in terms of accesibility and usability.  These sections mirror each other to help give the site a sense of balance.
+
 - __Courses Section__
 
-This section contains images for the courses available at the college so users can quickly see if they offer a course they are interested in.  Icons from Font Awesome are used for the courses to add visual interest and to make each course quickly identifiable and more memorable.
+This section contains images for the courses available at the college so users can quickly see if they offer a course they are interested in.  Icons from Font Awesome are used for the courses to add visual interest and to make each course quickly identifiable and more memorable.  On large screens the courses are
 
 - __Contact Section__
 
@@ -91,12 +99,9 @@ A map showing the college's location is also included in this section, allowing 
 
 The footer feature at the bottom of the page contains links to Hull College's social media links.  This will help users find more information.  The links open in a new tab so users are not taken away from Hull College's website.
 
-ADD IMAGES FOR FEATURES.
-
+ADD IMAGES????
 
  
-
-
 ### Features to Implement in the future
 - **Merchandise Shop**
      - **Feature** - set up an shop where the artist can sell their merchandise directly to fans online.
