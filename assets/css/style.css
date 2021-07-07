@@ -257,6 +257,12 @@ footer {
 }
 
 /* media queries */
+@media screen and (max-width: 1439px) {
+    html {
+        scroll-padding-top: 0; 
+    }
+}
+
 @media screen and (max-width: 952px) {
     /* about section */
     #about, 
