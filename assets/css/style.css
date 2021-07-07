@@ -205,6 +205,7 @@ input[type=submit] {
     margin-bottom: 1em;
     background-color: #faf482;
     color: #800080;
+    font-size: 125%;
     font-weight: bold;
     border: 1px solid #12130f;
 }
