@@ -103,10 +103,8 @@ ADD IMAGES????
 
  
 ### Features to Implement in the future
-- **Merchandise Shop**
-     - **Feature** - set up an shop where the artist can sell their merchandise directly to fans online.
-     - **Reason for not featuring in this release** - JavaScript needed to implement.
- 
+- **Courses**
+     Add information about each course when a courses image or heading is clicked.
  - **[LinkFire](https://www.linkfire.com/ "Link to LinkFire page") embedding**
      - **Feature** - smart-link embedding platform for music promotion
      - **Reason for not featuring in this release** - Budget not available for services
