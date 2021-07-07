@@ -123,6 +123,11 @@ page taking long time to load, image size
 
 iframe above sticky nav. change z-index  https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling
 
+validation errors in head. mismatched quotation marks
+
+updates were reject because the tip of your current branch...........
+https://codewithhugo.com/fix-git-failed-to-push-updates-were-rejected/
+
 
 [Back to top ⇧](#Kryan-Live)
 
