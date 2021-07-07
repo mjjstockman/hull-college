@@ -364,3 +364,9 @@ footer {
         font-size: 95%;
     }
 }
+
+@media screen and (max-width: 340px) {
+    h2 {
+        font-size: 110%;
+    }
+}
