@@ -188,28 +188,26 @@ The code was deployed to GitHub Pages in the following way:
 4. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
 5. Click "GitPod" in the top right hand corner.
 
-## Credits 
-Typespiration.com
+## Credits
+The following were used throughout the creation of this site:
 
-Coolors
+[Typespiration](https://typespiration.com/)
 
-font awsome
+[Coolors](https://coolors.co/)
 
-pexels
+[Font Awesome](https://fontawesome.com/)
 
-https://tinypng.com/
+[Pexels](https://www.pexels.com/)
 
-balsamiq
+[TinyPNG](https://tinypng.com/)
 
-am i responive??
+[Balsamiq](https://balsamiq.com/)
 
-https://validator.w3.org
+[Am I Responsive](http://ami.responsivedesign.is/)
 
-lighthouse
+[w3c Markup Validator](https://validator.w3.org)
 
-
-
-
+[lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 ### Content
 
