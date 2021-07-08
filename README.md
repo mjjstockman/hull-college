@@ -212,7 +212,8 @@ The following were used throughout the creation of this site:
 ### Content
 
 ### Media
-All images were taken from [Pexels](https://www.pexels.com/).
+The image used as the Hero was taken from [Adobe] (https://stock.adobe.com/)
+All other images were taken from [Pexels](https://www.pexels.com/)
 
 [Back to top ⇧](#Kryan-Live)
 
