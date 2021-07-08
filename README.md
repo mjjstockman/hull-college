@@ -112,19 +112,20 @@ ADD IMAGES????
 [Back to top ⇧](#Kryan-Live)
 
 ## Issues and Bugs 
-The developer ran into a number of issues during the development of the websites, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
+A number of bugs and issues were encountered during the sites development, as detailed below.  
 
-white space below image
+Images had a small amount of white space below them.  This is beacuse images are inline elements and therefore treated as text and assumed to have descenders.  Research found that the white space can be removed by declaring the image as a block level element.
 https://mor10.com/removing-white-space-image-elements-inline-elements-descenders/
 
-page taking long time to load, image size
+The page was taking a long time to load.  This was fixed by reducing the file size of images used.  ADD TINY PNG
+https://tinypng.com/
 
-iframe above sticky nav. change z-index  https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling
+The sticky header (with the logo and navigation) initially displayed behind the iframe map.  This issue was sovled by adding a z-index of 1 to the header.
+https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling
 
-validation errors in head. mismatched quotation marks
+HTML validation (at https://validator.w3.org/) showed errors for the description and keywords meta tags in the head.  This was due to mismatching quotation marks, as seen below:
 
-updates were reject because the tip of your current branch...........
-https://codewithhugo.com/fix-git-failed-to-push-updates-were-rejected/
+<img src="assets/images/quotation.png" alt="inccorect quotation marks for meta tags">
 
 
 [Back to top ⇧](#Kryan-Live)
@@ -163,16 +164,19 @@ Testing information can be found in a separate testing [file](TESTING.md "Link t
 This project was developed using [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/ "Link to Visual Studio Code site"), committed to git and pushed to GitHub using the computer terminal.
 
 ### Deploying on GitHub Pages
-To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+The code was deployed to GitHub Pages in the following way:
 
 1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
-2. Locate the [GitHub Repository](https://github.com/rebeccatraceyt/KryanLive "Link to GitHub Repo").
-3. At the top of the repository, select Settings from the menu items.
-4. Scroll down the Settings page to the "GitHub Pages" section.
-5. Under "Source" click the drop-down menu labelled "None" and select "Master Branch".
-6. Upon selection, the page will automatically refresh meaning that the website is now deployed.
-7. Scroll back down to the "GitHub Pages" section to retrieve the deployed link.
-8. At the time of submitting this Milestone project the Development Branch and Master Branch are identical.
+2. Select the repository [GitHub Repository](https://github.com/mjjstockman/hull-college "Link to GitHub Repository").
+3. Open Settings by clicking on the Settings link (with the cog icon).
+4. Scroll down to the GitHub Pages section and click on the link.
+<img src="assets/images/github-pages.png" alt="GitHub Pages link">
+4. Click the dropdown box in the Source section (which currently states "none") and select master (this may be named main for some users).
+<img src="assets/images/github-source.png" alt="Selecting master branch as source">
+6. Click Save.
+7. The URL address for the deployed site will be shown.
+<img src="assets/images/github-address.png" alt="The URL address of the deployed site">
+
 
 ### Forking the Repository
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
