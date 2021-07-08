@@ -114,7 +114,7 @@ ADD IMAGES????
 ## Issues and Bugs 
 A number of bugs and issues were encountered during the sites development, as detailed below.  
 
-Images had a small amount of white space below them.  This is beacuse images are inline elements and therefore treated as text and assumed to have descenders.  Research found that the white space can be removed by declaring the image as a block level element.
+Some images had a small amount of white space below them.  This is beacuse images are inline elements and therefore treated as text and assumed to have descenders.  Research found that the white space can be removed by declaring the image as a block level element.
 https://mor10.com/removing-white-space-image-elements-inline-elements-descenders/
 
 The page was taking a long time to load.  This was fixed by reducing the file size of images used.  ADD TINY PNG
@@ -132,12 +132,11 @@ HTML validation (at https://validator.w3.org/) showed errors for the description
 
 ## Technologies Used
 ### Main Languages Used
-- [HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML Wiki")
-- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Link to CSS Wiki")
+- HTML
+- CSS
 
 ### Additional Languages Used
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript "Link to JavaScript Wiki")
-     - Used to implement a function that allowed the Navbar to change colour when user scrolls through page on mobile device, for UX purposes.
+- Javascript was used to change the highlighted navigation link on scroll.
 
 ### Frameworks, Libraries & Programs Used
 - [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
@@ -158,10 +157,6 @@ HTML validation (at https://validator.w3.org/) showed errors for the description
 ## Testing
 
 Testing information can be found in a separate testing [file](TESTING.md "Link to testing file")
-
-## Deployment
-
-This project was developed using [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/ "Link to Visual Studio Code site"), committed to git and pushed to GitHub using the computer terminal.
 
 ### How the site was Deployed
 The code was deployed to GitHub Pages in the following way:
@@ -194,33 +189,40 @@ The code was deployed to GitHub Pages in the following way:
 5. Click "GitPod" in the top right hand corner.
 
 ## Credits 
+Typespiration.com
+
+Coolors
+
+font awsome
+
+pexels
+
+https://tinypng.com/
+
+balsamiq
+
+am i responive??
+
+https://validator.w3.org
+
+lighthouse
+
+
+
+
 
 ### Content
-- The text used in the biographic paragraphs were written by the artist, Ryan Kelly.
-- The quote used in the Press Kit page is sourced from [Indie Buddie](https://www.indiebuddie.com/kryan-scars-premiere/ "Link to Indie Buddie").
 
 ### Media
-- All images were sourced from the artist, Ryan Kelly.
-- The text used in the 404 error page was sourced from [CopyAndPasteFonts](https://www.copyandpastefont.com/ "Link to Font editor") and edited by the developer.
-
-### Code 
-The developer consulted multiple sites in order to better understand the code they were trying to implement. For code that was copied and edited, the developer made sure to reference this with the code. The following sites were used on a more regular basis:
-- [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow page")
-- [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
-- [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
-- [JSfiddle](https://jsfiddle.net/ "Link to JSfiddle page")
-
-Javascript:
-https://codepen.io/malsu/pen/VwKzoPG
+All images were taken from [Pexels](https://www.pexels.com/).
 
 [Back to top ⇧](#Kryan-Live)
 
 ## Acknowledgements
 
-- I would like to thank my friends and family for their valued opinions and critic during the process of design and development.
-- I would like to thank my mentor, Seun, for her invaluable help and guidance throughout the process.
-- Lastly, I would like to extend my deepest gratitude to Ryan for trusting me in designing this site for him.
+- Thank you to the Code Institute Slack community for their general help and guidance.
+- Many thanks to my mentor for the help along the way.
+
 
 [Back to top ⇧](#Kryan-Live)
 
-***
