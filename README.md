@@ -117,7 +117,7 @@ A number of bugs and issues were encountered during the sites development, as de
 Some images had a small amount of white space below them.  This is beacuse images are inline elements and therefore treated as text and assumed to have descenders.  Research found that the white space can be removed by declaring the image as a block level element.
 https://mor10.com/removing-white-space-image-elements-inline-elements-descenders/
 
-The page was taking a long time to load.  This was fixed by reducing the file size of images used.  ADD TINY PNG
+The page was taking a long time to load.  This was fixed by reducing the file size of images used.  ADD TINY PNG. LATER CHANGES TO AVIF https://convertio.co/
 https://tinypng.com/
 
 The sticky header (with the logo and navigation) initially displayed behind the iframe map.  This issue was sovled by adding a z-index of 1 to the header.
@@ -208,6 +208,8 @@ The following were used throughout the creation of this site:
 [w3c Markup Validator](https://validator.w3.org)
 
 [lighthouse](https://developers.google.com/web/tools/lighthouse)
+
+[Convertico](https://convertio.co/)
 
 ### Content
 
