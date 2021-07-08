@@ -166,16 +166,16 @@ This project was developed using [Visual Studio Code Insiders](https://code.visu
 ### Deploying on GitHub Pages
 The code was deployed to GitHub Pages in the following way:
 
-1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
-2. Select the repository [GitHub Repository](https://github.com/mjjstockman/hull-college "Link to GitHub Repository").
+1. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
+2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
 3. Open Settings by clicking on the Settings link (with the cog icon).
-4. Scroll down to the GitHub Pages section and click on the link.
-<img src="assets/images/github-pages.png" alt="GitHub Pages link">
-4. Click the dropdown box in the Source section (which currently states "none") and select master (this may be named main for some users).
-<img src="assets/images/github-source.png" alt="Selecting master branch as source">
+4. Scroll down to the GitHub Pages section and click on the link. 
+![GitHub Pages link](https://raw.githubusercontent.com/mjjstockman/hull-college/master/github-pages.png)
+4. Click the dropdown box in the Source section (which currently states "none") and select master (this may be named "main" for some users).
+![Selecting master branch as source](https://raw.githubusercontent.com/mjjstockman/hull-college/master/github-source.png)
 6. Click Save.
 7. The URL address for the deployed site will be shown.
-<img src="assets/images/github-address.png" alt="The URL address of the deployed site">
+![The URL address of the deployed site"](https://raw.githubusercontent.com/mjjstockman/hull-college/master/deployed-address.png)
 
 
 ### Forking the Repository
