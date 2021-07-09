@@ -40,9 +40,10 @@ And if you want to knock the grade for testing all the way up to the max:
 #### Potential Students:
 1. As a potential student, I want to quickly see what courses are offered so I can see if they are of interest.
 
-     - The navigation bar is clearly defined and easily navigable for users to find and use.
-     - The logo image on the top left of each page leads users back to the home page.
-     - The footer menu is easy to use with appropriate icons for easy identification.
+     - The six courses on offer are clearly listed within the Courses section.
+     - Images relating to the subjects are used to draw the users attention.
+     - The name of the course is capatlised and in a different colour the body text to stand out.
+     - Icons from Font Awesome are used before and after the courses heading, once again to draw the users attention and make the subjects more memorable.
 
 2. As a potential student, I want to see some general information about the college so I can find out a bit about it.
 
