@@ -36,7 +36,12 @@ Medium sized screens
 Large screens
 <img src="assets/images/large-new.avif" alt="Wireframe of large screen">
 
-#### How the wireframes changed throught development
+#### How the wireframes changed throughout development
+Smaller screens center the header logo and place the navigation below it.  This was done to increase the user experience on such screens and for aesthetic reasons.
+
+All form labels were moved above their input.  Form inputs and the textarea were set to the same length.  This was changed after viewing [this video] (https://www.youtube.com/watch?v=z9H7p1_iI14) discussing form design.
+
+A map showing the college's location was added to the contact section.
 
 ### Design
 
@@ -220,6 +225,8 @@ https://supercooldesign.co.uk/blog/how-to-write-good-alt-text
 https://codepen.io/malsu/pen/VwKzoPG
 
 https://squoosh.app/
+
+https://www.youtube.com/watch?v=z9H7p1_iI14
 
 ### Content
 
