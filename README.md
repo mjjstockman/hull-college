@@ -15,9 +15,9 @@ The target market are individuals who are wanting to find out more about the col
 
 2. As a potential student, I want to see some general "about" text so I can confirm that I am on the correct site for my needs.
 
-3. As a potential student, I want to see facts and figures on the college's success so I can gauge whether I want to enroll. 
+3. As a potential student, I want to see facts and figures on the students success so I can gauge whether I want to enroll.
 
-4. As a potential student, I want to be able to contact the college so that I can ask any questions I have about the college.
+4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.
 
 ADD ACCEPTANCE CRITERIA'S?? WATCH https://us02web.zoom.us/rec/play/9FIKllHX2ZiQNFRhYPn_hBh_ZeA8964ZvIDLnhpKGAf1NLVc3_hBJ6zSL8Hv5Hx7ALnPtDmbg8CmFAs.YVsZ9LR_uI7OjEwH
 

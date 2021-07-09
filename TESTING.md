@@ -45,17 +45,13 @@ And if you want to knock the grade for testing all the way up to the max:
      - The name of the course is capatlised and in a different colour the body text to stand out.
      - Icons from Font Awesome are used before and after the courses heading, once again to draw the users attention and make the subjects more memorable.
 
-2. As a potential student, I want to see some general information about the college so I can find out a bit about it.
+2. As a potential student, I want to see some general "about" text so I can confirm that I am on the correct site for my needs.
 
-     - The 'Bio' page is appropriately named for users wishing to find out about Kryan.
-     - The 'Bio' page is easily found on each page, no matter the device. 
-     - Clicking on each of the collaborations will open an accordion menu for users to learn more.
+     - The about section contains a paragraph of introductionary text, letting the user quickly understand the purpose of the site.
 
-3. As a potential student, I want to see facts and figures on the college's success so I can gauge whether I want to enroll. 
+3. As a potential student, I want to see facts and figures on the students success so I can gauge whether I want to enroll. 
 
-     - The social links are located in the footer on desktop and tablet devices.
-     - On mobile devices, the socials are located within the header menu (illustrated with the toggler button).
-     - In each instance, each link is represented by an appropriate icon for easy identification of the social platform.
+     - The about section contains information on the students success. 
 
 4. As a potential student, I want to be able to contact the college so that I can ask any questions I have about the college.
 
