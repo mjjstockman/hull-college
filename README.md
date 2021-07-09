@@ -13,7 +13,7 @@ The target market are individuals who are wanting to find out more about the col
 
 1. As a potential student, I want to quickly see what courses are offered so I can see if they are of interest.
 
-2. As a potential student, I want to see some general information about the college so I can find out a bit about it.
+2. As a potential student, I want to see some general "about" text so I can confirm that I am on the correct site for my needs.
 
 3. As a potential student, I want to see facts and figures on the college's success so I can gauge whether I want to enroll. 
 
