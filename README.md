@@ -28,13 +28,13 @@ TECHNICAL IMPLEMENTATION (how will implement feature, eg, a form will be added w
 ### Wireframes
 
 Small screens
-<img src="assets/images/wireframes/small.png" alt="wireframe of small screen">
+<img src="assets/images/small-new.avif" alt="wireframe of small screen">
 
 Medium sized screens
-<img src="assets/images/wireframes/medium.png" alt="wireframe of medium screen">
+<img src="assets/images/medium-new.avif" alt="wireframe of medium screen">
 
 Large screens
-<img src="assets/images/wireframes/large.png" alt="wireframe of large screen">
+<img src="assets/images/large-new.avif" alt="wireframe of large screen">
 
 ### Design
 
@@ -50,7 +50,7 @@ Courses: #90e0ef
 Contact: #00b4d8
 Footer: #0077b6
 
-<img src="readme-images/other/blue-colours.png" alt="Blue colour scheme from Coolors.co">
+<img src="assets/images/blue-colours.avif" alt="Blue colour scheme from Coolors.co">
 
 Main text: #12130f
 Navigation and footer text/icons: #fffafa
@@ -117,7 +117,7 @@ A number of bugs and issues were encountered during the sites development, as de
 Some images had a small amount of white space below them.  This is beacuse images are inline elements and therefore treated as text and assumed to have descenders.  Research found that the white space can be removed by declaring the image as a block level element.
 https://mor10.com/removing-white-space-image-elements-inline-elements-descenders/
 
-The page was taking a long time to load.  This was fixed by reducing the file size of images used.  ADD TINY PNG. LATER CHANGES TO AVIF https://convertio.co/
+The page was taking a long time to load.  This was fixed by reducing the file size of images used.  ADD TINY PNG. LATER CHANGES TO AVIF https://convertio.co/ https://avif.io/
 https://tinypng.com/
 
 The sticky header (with the logo and navigation) initially displayed behind the iframe map.  This issue was sovled by adding a z-index of 1 to the header.
@@ -125,7 +125,7 @@ https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-f
 
 HTML validation (at https://validator.w3.org/) showed errors for the description and keywords meta tags in the head.  This was due to mismatching quotation marks, as seen below:
 
-<img src="assets/images/quotation.png" alt="inccorect quotation marks for meta tags">
+<img src="assets/images/quotation.avif" alt="inccorect quotation marks for meta tags">
 
 
 [Back to top ⇧](#Kryan-Live)
@@ -165,12 +165,12 @@ The code was deployed to GitHub Pages in the following way:
 2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
 3. Open Settings by clicking on the Settings link (with the cog icon).
 4. Scroll down to the GitHub Pages section and click on the link. 
-![GitHub Pages link](https://raw.githubusercontent.com/mjjstockman/hull-college/master/github-pages.png)
+<img src="assets/images/github-pages.avif" alt="Blue colour scheme from Coolors.co">
 4. Click the dropdown box in the Source section (which currently states "none") and select master (this may be named "main" for some users).
-![Selecting master branch as source](https://raw.githubusercontent.com/mjjstockman/hull-college/master/github-source.png)
+<img src="assets/images/github-source.avif" alt="Blue colour scheme from Coolors.co">
 6. Click Save.
 7. The URL address for the deployed site will be shown.
-![The URL address of the deployed site"](https://raw.githubusercontent.com/mjjstockman/hull-college/master/deployed-address.png)
+<img src="assets/images/deployed-address.avif" alt="inccorect quotation marks for meta tags">
 
 
 ### How to Fork the Repositry
@@ -210,6 +210,8 @@ The following were used throughout the creation of this site:
 [lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 [Convertico](https://convertio.co/)
+
+[Avif.io](https://avif.io/)
 
 ### Content
 
