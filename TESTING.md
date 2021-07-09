@@ -236,8 +236,6 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
      ![Home Page HTML Validation Results](assets/testing-files/automated/home.png)
 
-
-
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the CSS.
 
 **Results:**

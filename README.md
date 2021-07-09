@@ -36,6 +36,8 @@ Medium sized screens
 Large screens
 <img src="assets/images/large-new.avif" alt="Wireframe of large screen">
 
+#### How the wireframes changed throught development
+
 ### Design
 
 #### Colour Scheme
