@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a website for potential students to find basic information about Hull College in East Yorkshire, England. 
+This is a fictional website (for educationalpurposes) for potential students to find basic information about Hull College in East Yorkshire, England.  
 
 ## UX Design
 
