@@ -63,7 +63,7 @@ And if you want to knock the grade for testing all the way up to the max:
 
      - The contact section has a form to send the college a questions/messages.
 
-     img src="assets/images/about-student-satisfaction-section.avif" alt="Screenshot of courses section">
+     <img src="assets/images/contact-section-form.avif" alt="Screenshot of student satisfaction section">
 
 
 
