@@ -19,12 +19,6 @@ The target market are individuals who are wanting to find out more about the col
 
 4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.
 
-ADD ACCEPTANCE CRITERIA'S?? WATCH https://us02web.zoom.us/rec/play/9FIKllHX2ZiQNFRhYPn_hBh_ZeA8964ZvIDLnhpKGAf1NLVc3_hBJ6zSL8Hv5Hx7ALnPtDmbg8CmFAs.YVsZ9LR_uI7OjEwH
-
-GIVE HAPPY PATH (when user does as expected), and SAD PATH (if put in incorecct info etc and user gets alerted)
-
-TECHNICAL IMPLEMENTATION (how will implement feature, eg, a form will be added with x, x and x required, email must be email etc. user alerted if incoreect input)
-
 ### Wireframes
 
 Small screens
@@ -162,8 +156,7 @@ HTML validation (at https://validator.w3.org/) showed errors for the description
 [Back to top ⇧](#Kryan-Live)
 
 ## Testing
-
-Testing information can be found in a separate testing [file](TESTING.md "Link to testing file")
+Details about the testing of the site can be found [here](TESTING.md)
 
 ### How the site was Deployed
 The code was deployed to GitHub Pages in the following way:
