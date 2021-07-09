@@ -15,7 +15,7 @@ The target market are individuals who are wanting to find out more about the col
 
 2. As a potential student, I want to see some general "about" text so I can confirm that I am on the correct site for my needs.
 
-3. As a potential student, I want to see facts and figures on the students success so I can gauge whether I want to enroll.
+3. As a potential student, I want to see facts and figures on student satisfaction so I can gauge whether I want to enroll.
 
 4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.
 
@@ -216,6 +216,8 @@ The following were used throughout the creation of this site:
 https://supercooldesign.co.uk/blog/how-to-write-good-alt-text
 
 https://codepen.io/malsu/pen/VwKzoPG
+
+https://squoosh.app/
 
 ### Content
 
