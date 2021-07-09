@@ -1,22 +1,3 @@
-### Sites used to Validate Code
-
-https://validator.w3.org/
-
-https://jigsaw.w3.org/css-validator/
-
-
-
-### User Stories
-
-1. As a potential student, I want to quickly see what courses are offered so I can see if they are of interest.
-
-2. As a potential student, I want to see some general information about the college so I can find out a bit about it.
-
-3. As a potential student, I want to see facts and figures on the college's success so I can gauge whether I want to enroll. 
-
-4. As a potential student, I want to be able to contact the college so that I can ask any questions I have about the college.
-
-
 
 For testing writeup there are basically 5 parts.
 1) List the websites you used to validate your code and what they are for.
@@ -56,66 +37,33 @@ And if you want to knock the grade for testing all the way up to the max:
 
 ## Testing User Stories
 
-#### New/Potential Fans Goals:
-1. As a new fan, I want to easily navigate through the website to find the relevant content, effortlessly.
+#### Potential Students:
+1. As a potential student, I want to quickly see what courses are offered so I can see if they are of interest.
 
      - The navigation bar is clearly defined and easily navigable for users to find and use.
      - The logo image on the top left of each page leads users back to the home page.
      - The footer menu is easy to use with appropriate icons for easy identification.
 
-2. As a new fan, I want to learn more about the artist's background in order to better understand Kryan and their music.
+2. As a potential student, I want to see some general information about the college so I can find out a bit about it.
 
      - The 'Bio' page is appropriately named for users wishing to find out about Kryan.
      - The 'Bio' page is easily found on each page, no matter the device. 
      - Clicking on each of the collaborations will open an accordion menu for users to learn more.
 
-3. As a new fan, I want to easily navigate to the artist's social links in order to keep up with the latest news and releases.
+3. As a potential student, I want to see facts and figures on the college's success so I can gauge whether I want to enroll. 
 
      - The social links are located in the footer on desktop and tablet devices.
      - On mobile devices, the socials are located within the header menu (illustrated with the toggler button).
      - In each instance, each link is represented by an appropriate icon for easy identification of the social platform.
 
-4. As a new fan, I want to easily find links to the hosted music platform of my choice, in order to listen to Kryan.
+4. As a potential student, I want to be able to contact the college so that I can ask any questions I have about the college.
 
      - The music platform links are included in the social links menu - this was in order to promote the links as another point of contact for new fans to find out about Kryan.
      - The music platforms represented are ones that are most popular.
 
-5. As a new fan, I want to be able to watch an embedded video to be able to get a snapshot of Kryan performing.
 
-     - The press kit page is for both business and casual enquirers, providing a easy navigable page where users can find snapshots (including videos) of Kryan and his sound.
 
-#### Current Fans Goals:
-1. As a current fan, I want to navigate to information about upcoming live events in order to securely order tickets.
 
-     - The 'Live' page is appropriately named for users to go straight to the information they seek.
-     - On the Live page are multiple points of interest and actions, including a "Tickets" button providing a link to the external ticketing site.
-
-2. As a current fan, I want to find out about new and upcoming releases to be able to pre-save or listen to the music.
-
-     - The Home Page was designed to host the latest and upcoming releases as this is most common story amongst users.
-
-3. As a current fan, I want to easily navigate to the artist's music page on my desired music platform, e.g. Spotify.
-
-     - The music platform links are included in the social links menu.
-     - The platforms selected are the three that are favourites of current users.
-     - The Press Kit page also hosts a Spotify embed as this is the most popular music platform that Kryan fans use.
-
-#### Potential Bookers Goals:
-1. As a potential booker, I want to easily navigate to the artist's Electronic Press Kit to source relevant information.
-
-     - The 'Press Kit' page is appropriately named for users to easily navigate to the page, regardless of what page they are on.
-     - The page is optimized for users to easily find the information they desire, as each section is clearly defined within the Press Kit.
-
-#### Media Enquirer Goals:
-1. A a media enquirer, I want to easily navigate to the artist's Electronic Press Kit to source relevant information.
-
-     - The 'Press Kit' page is appropriately named for users to easily navigate to the page, regardless of what page they are on.
-     - The page is optimized for users to easily find the information they desire, as each section is clearly defined within the Press Kit.
-
-2. As a media enquirer, I want to easily find materials that could be useful for media coverage pieces.
-
-     - Each page has highlighted features that is potential material for media enquirers.
-     - The most commonly searched features are emphasized in order to draw the users directly to that information.
 
 [Back to top ⇧](#Kryan-Live---Testing)
 
@@ -273,7 +221,7 @@ Manual testing was conducted on the following elements of the [Electronic Press 
 ## Automated Testing
 
 ### Code Validation
-The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the `HTML` code used.
+The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the HTML.
 
 **Results:**
 
@@ -281,19 +229,9 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
      ![Home Page HTML Validation Results](assets/testing-files/automated/home.png)
 
-- Bio Page
 
-     ![Bio Page HTML Validation Results](assets/testing-files/automated/bio.png)
 
-- Live Page
-
-     ![Live Page HTML Validation Results](assets/testing-files/automated/live.png)
-
-- Electronic Press Kit Page
-
-     ![EPK Page HTML Validation Results](assets/testing-files/automated/epk.png)
-
-The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
+The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the CSS.
 
 **Results:**
 ![Style sheet validation results](assets/testing-files/automated/style.png)
@@ -321,4 +259,19 @@ It was through this testing that the following changes were made:
 
 [Back to top ⇧](#Kryan-Live---Testing)
 
-***
+
+## Issues and Bugs 
+A number of bugs and issues were encountered during the sites development, as detailed below.  
+
+Some images had a small amount of white space below them.  This is beacuse images are inline elements and therefore treated as text and assumed to have descenders.  Research found that the white space can be removed by declaring the image as a block level element.
+https://mor10.com/removing-white-space-image-elements-inline-elements-descenders/
+
+The page was taking a long time to load.  This was fixed by reducing the file size of images used.  ADD TINY PNG. LATER CHANGES TO AVIF https://convertio.co/ https://avif.io/
+https://tinypng.com/
+
+The sticky header (with the logo and navigation) initially displayed behind the iframe map.  This issue was sovled by adding a z-index of 1 to the header.
+https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling
+
+HTML validation (at https://validator.w3.org/) showed errors for the description and keywords meta tags in the head.  This was due to mismatching quotation marks, as seen below:
+
+<img src="assets/images/quotation.avif" alt="Inccorect quotation marks for meta tags">
