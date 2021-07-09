@@ -28,13 +28,13 @@ TECHNICAL IMPLEMENTATION (how will implement feature, eg, a form will be added w
 ### Wireframes
 
 Small screens
-<img src="assets/images/small-new.avif" alt="wireframe of small screen">
+<img src="assets/images/small-new.avif" alt="Wireframe of small screen">
 
 Medium sized screens
-<img src="assets/images/medium-new.avif" alt="wireframe of medium screen">
+<img src="assets/images/medium-new.avif" alt="Wireframe of medium screen">
 
 Large screens
-<img src="assets/images/large-new.avif" alt="wireframe of large screen">
+<img src="assets/images/large-new.avif" alt="Wireframe of large screen">
 
 ### Design
 
@@ -125,7 +125,7 @@ https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-f
 
 HTML validation (at https://validator.w3.org/) showed errors for the description and keywords meta tags in the head.  This was due to mismatching quotation marks, as seen below:
 
-<img src="assets/images/quotation.avif" alt="inccorect quotation marks for meta tags">
+<img src="assets/images/quotation.avif" alt="Inccorect quotation marks for meta tags">
 
 
 [Back to top ⇧](#Kryan-Live)
@@ -165,12 +165,12 @@ The code was deployed to GitHub Pages in the following way:
 2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
 3. Open Settings by clicking on the Settings link (with the cog icon).
 4. Scroll down to the GitHub Pages section and click on the link. 
-<img src="assets/images/github-pages.avif" alt="Blue colour scheme from Coolors.co">
+<img src="assets/images/github-pages.avif" alt="GitHub Pages section">
 4. Click the dropdown box in the Source section (which currently states "none") and select master (this may be named "main" for some users).
-<img src="assets/images/github-source.avif" alt="Blue colour scheme from Coolors.co">
+<img src="assets/images/github-source.avif" alt="Selecting master branch as source">
 6. Click Save.
 7. The URL address for the deployed site will be shown.
-<img src="assets/images/deployed-address.avif" alt="inccorect quotation marks for meta tags">
+<img src="assets/images/deployed-address.avif" alt="Example of URL once deployed">
 
 
 ### How to Fork the Repositry
@@ -212,6 +212,8 @@ The following were used throughout the creation of this site:
 [Convertico](https://convertio.co/)
 
 [Avif.io](https://avif.io/)
+
+https://supercooldesign.co.uk/blog/how-to-write-good-alt-text
 
 ### Content
 
