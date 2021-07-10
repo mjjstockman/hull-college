@@ -65,7 +65,7 @@ Typespiration.com was used to find complimenting Google Font pairings, with the 
 
 The navigation bar allows the user to easily select which area of the site they wish to view. It will be located at the top of the site as this is common practice and is the area where most users eyes will be initially drawn to. It will be 'sticky', meaning it will stay at the top of the users screen even when they scroll the site. This is because the site is a one page design and it is essential for the user to always be able to navigate the site wherever their current position. When a link is hovered over it becomes underlined to help the user confirm they are about to select the relevant link. The underline remains once selected and the relevant navigation link is highlighted when the site is scrolled.
 
- The 'hamburger' icon was not used on small screens (where the navigation bar will collapse and be represented as three horizontal lines. When touched/clicked, this would reveal the navigation in a dropdown menu). This is often done due to the limited real estate space making the text hard to read when the screen is this size. However, this design was not used to make the site more easy to navigate for all users. Furthermore the navigation only contains three links so they have the space to remain next to each other still on small screens without causing accessibility and design issues. However, the logo will be centred and the navigation drop below at a maximum width of 689px.   CCCCCCHHHHHHHHEEEEEECCCCCKKKKKKKKCHECK THIS!!
+ The 'hamburger' icon was not used on small screens (where the navigation bar will collapse and be represented as three horizontal lines. When touched/clicked, this would reveal the navigation in a dropdown menu). This is often done due to the limited real estate space making the text hard to read when the screen is this size. However, this design was not used to make the site more easy to navigate for all users. Furthermore the navigation only contains three links so they have the space to remain next to each other still on small screens without causing accessibility and design issues. However, the logo will be centred and the navigation drop below at a particular screen width. 
 
 ## Hero Image
 
@@ -90,8 +90,7 @@ A map showing the college's location is also included in this section, allowing 
 The footer feature at the bottom of the page contains links to Hull Colleges social media links. This will help users find more information and stay up to date with the college. The links open in a new tab so users are not taken away from Hull College's website. They are the same colour as those in the navigation for consistency and to help them stand out.
 
 # Features to Implement in the future
- CCCCCCHHHHHHHHEEEEEECCCCCKKKKKKKK
-ADD LATER!!
+Add a dropdown to each course in the Courses section containg information on the course.
 
 # Technologies Used
 
@@ -103,20 +102,11 @@ ADD LATER!!
 
 - Javascript was used to change the highlighted navigation link on scroll.
 
-### Frameworks, Libraries & Programs Used
-
--  [Google Fonts](https://fonts.google.com/  "Link to Google Fonts") was used to to create the link for the fonts within the head.
--  [Font Awesome](https://fontawesome.com/  "Link to FontAwesome") icons were used throughout the site.
--  [Git](https://git-scm.com/  "Link to Git homepage") was used for version control.
--  [GitHub](https://github.com/  "Link to GitHub") was used to host the site.
--  [Balsamiq](https://balsamiq.cloud//  "Link to Balsamiq homepage") was used to create the wireframes.
--  [Am I Responsive?](http://ami.responsivedesign.is/#  "Link to Am I Responsive Homepage") was used to check the sites responsive design and create the ADDDDDDDDDD WHEN ADDEDDDDDDD
-
 # Testing
 
 Details on site testing can be found [here](TESTING.md).
 
- # How the site was Deployed
+# Deployment
 The code was deployed to GitHub Pages in the following way:
 1. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
 2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
@@ -145,7 +135,7 @@ The code was deployed to GitHub Pages in the following way:
 
 # Credits
 
-The following were used throughout the creation of this site:
+Many thanks to the following which were used throughout the creation of this site:
 [Typespiration](https://typespiration.com/)
 [Coolors](https://coolors.co/)
 [Font Awesome](https://fontawesome.com/)
@@ -157,23 +147,28 @@ The following were used throughout the creation of this site:
 [lighthouse](https://developers.google.com/web/tools/lighthouse)
 [Convertico](https://convertio.co/)
 [Avif.io](https://avif.io/)
-https://supercooldesign.co.uk/blog/how-to-write-good-alt-text
-https://codepen.io/malsu/pen/VwKzoPG
-https://squoosh.app/
-https://www.youtube.com/watch?v=z9H7p1_iI14
-https://www.freeformatter.com/
+[AAAAAAAAAADDDDDDDDDDD](https://codepen.io/malsu/pen/VwKzoPG)
+[Squoosh](https://squoosh.app/)
+[AAAAAAAAAADDDDDDDDDDD](https://www.youtube.com/watch?v=z9H7p1_iI14)
+[Free Formatter](https://www.freeformatter.com/)
+[Google Fonts](https://fonts.google.com/)
+[Font Awesome](https://supercooldesign.co.uk/blog/how-to-write-good-alt-text)
+[Supercooldesign](https://fontawesome.com/)
+[Git](https://git-scm.com/)
+[GitHub](https://github.com/)
+[Am I Responsive?](http://ami.responsivedesign.is)
+AAAAAAAAAAAAAAAAADDDDDDDDDDDDDDDDDDDD 
 
-  ### Content
-   CCCCCCHHHHHHHHEEEEEECCCCCKKKKKKKK
-   ADD FICTIONAL EDUCATION PURPOSES AND REMOVE FROM INTRO
+
 ### Media
 
-The image used as the Hero was taken from [Adobe] (https://stock.adobe.com/)
+The Hero image was taken from [Adobe] (https://stock.adobe.com/)
 
 All other images were taken from [Pexels](https://www.pexels.com/)
 
  [Back to top ⇧](#Kryan-Live)
 ## Acknowledgements
-- Thank you to the Code Institute Slack community for their general help and guidance.
-- Many thanks to my mentor for the help along the way.
+- Many thanks to my mentor for guidance.
+- Thank you to the Code Institute Slack community for their advice.
+
 [Back to top ⇧](#Kryan-Live)

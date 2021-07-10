@@ -20,7 +20,8 @@ body {
 }
 
 /* Make all images within a section responsive */
-section img {
+section img,
+#hero-image {
     width: 100%;
     height: auto;
 }
