@@ -19,24 +19,20 @@ The target market are individuals who are wanting to find out more about the col
 4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.
 
 # Wireframes
-## Small screens
-<img  src="assets/images/small-new.avif"  alt="Wireframe of small screen">
 
-## Medium screens
-<img  src="assets/images/medium-new.avif"  alt="Wireframe of medium screen">
+| Small screens |Medium screens  | Large screens |
+|--|--|--|
+| <img  src="assets/images/small-new.avif"  alt="Wireframe of small screen"> | <img  src="assets/images/medium-new.avif"  alt="Wireframe of medium screen"> | <img  src="assets/images/large-new.avif"  alt="Wireframe of large screen">|
 
-## Large screens
-<img  src="assets/images/large-new.avif"  alt="Wireframe of large screen">
 
 ## How the wireframes changed throughout development
- CCCCCCHHHHHHHHEEEEEECCCCCKKKKKKKK
-ADD EXPLANATION
+The original design was slightly different to the above wireframes.  The following particualrs were changed during implementation to better the user experience and aesthetics:
 
-Smaller screens center the header logo and place the navigation below it. This was done to increase the user experience on such screens and for aesthetic reasons.
+The header was changed so that the logo was centered and the navigation drops underneath when the scrren is reduced to a particular size.  This meant that the navigation links did not get too close together.
 
-All form labels were moved above their input. Form inputs and the textarea were set to the same length. This was changed after viewing [this video] (https://www.youtube.com/watch?v=z9H7p1_iI14) discussing form design.
+Form labels were moved above their inputs, placeholders removed and all inputs and the submit button were stacked and the same width.  
 
-A map showing the college's location was added to the contact section.
+A map showing the colleges location was added to the contact section.
 
 # Design
 ## Colour Scheme
