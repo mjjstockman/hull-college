@@ -302,6 +302,7 @@ footer {
     }
 
     /* courses section */
+    /* place in rows of 2 */
     .courses-container,
     .satisfaction-container {
         float: left;
@@ -310,6 +311,7 @@ footer {
     }
 
     /* contact section */
+    /* make form full width */
     form {
         float: none;
         width: 100%;
@@ -330,6 +332,7 @@ footer {
 }
 
 @media screen and (max-width: 689px) {
+    /* componsate for sticky nav */
     html {
         scroll-padding-top: 108px; 
     }
@@ -356,6 +359,7 @@ footer {
         padding: 0;
     }
 
+    /* remove margin from li */
     nav li+li {
         margin: 0;
     }
@@ -375,10 +379,12 @@ footer {
 }
 
 @media screen and (max-width: 565px) {
+    /* componsate for sticky nav */
     html {
         scroll-padding-top: 107px; 
     }
 
+    /* make full screen */
     .courses-container,
     .satisfaction-container,
     .award-container {
@@ -393,12 +399,14 @@ footer {
 }
 
 @media screen and (max-width: 370px) {
+   /* reduce font size so not so close together */
     nav li {
         font-size: 95%;
     }
 }
 
 @media screen and (max-width: 340px) {
+     /* reduce size so font awseome icon stays next to the student satisfaction h2 */
     h2 {
         font-size: 110%;
     }
