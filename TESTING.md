@@ -98,27 +98,47 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used t
 
 [Back to top ⇧](#Hull-College-Testing)
 ### Browser Validation
-- Chrome - [test image](assets/testing-files/automated/chrome.png)
-- Safari - [test image](assets/testing-files/automated/safari.png)
-- Edge - [test image](assets/testing-files/automated/edge.png)
-- Opera - [test image](assets/testing-files/automated/opera.png)
-- Firefox - [test image](assets/testing-files/automated/firefox.png)
+The site was tested on the following browsers:
+- Chrome 
+- Safari 
+- Edge 
+- Opera
+- Firefox 
 
 [Back to top ⇧](#Hull-College-Testing)
 
 ### Lighthouse Auditing
-- Click [here](assets/testing-files/automated/lighthouse.pdf) for full report
-- No recommendations in this report have been implemented in the first release but will be looked into for future releases.
+- Lighthouse was used to audit the site and the report can be found [here](assets/pdf/lighthouse-report.pdf).
+- Although useful, no changes were made to improve its ratings as this was outside of the scope of this project and its time restrictions.
 
 [Back to top ⇧](#Hull-College-Testing)
 
 ## User testing 
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. Their helpful advice throughout the process led to many UX changes in order to create a better experience. 
+Numerous peers and friends helped to review the site and its development, with the following issues found and fixed:
 
-It was through this testing that the following changes were made:
-- Change to the Navbar background color on mobiles in order for the toggler menu icon to more distinguishable to the background image.
-- Change to Navbar font-size on mobile for clearer reading.
-- Complete overhaul of Live page in order to display the information in a more user-friendly way.
+Many thanks to [Matt Boden] (https://github.com/MattBCoding) for the following sugestions:
+
+- A favicon was added.
+
+- On iPhone 5/SE (width of 320px) the Font Awesome icon on the right of the Student Satisfaction heading was wraping beneath the text.  This was fixed by reducing the size of all &lt;h2>'s when the design broke.  The decision to change all &lt;h2>'s so the design of the site remains consistent.
+
+- The javascript used to highlight the active navigation link on scroll wasn't working correctly on an iPad Pro (width of 1440px).  This was fixed by adding a media query when the design broke to adjust the scroll-padding-top value.
+
+- The size of the text within the Submit button was capatalised and increased in size.
+
+Many thanks to **[Naoise Gaffney]**(https://www.linkedin.com/in/naoisegaffney/) for the following advice:
+
+- Mismatched quotation marks were used within the head.  These were changed.
+
+
+
+ADD THANKS??
+
+
+And finally, a personal one from me, i'd make the submit text on the submit button a little larger, I feel it stands out being so small in comparison to everything else, but its just a personal thing that i'd change.
+
+
+
 
 [Back to top ⇧](#Hull-College-Testing)
 
