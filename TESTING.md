@@ -1,22 +1,8 @@
-
-For testing writeup there are basically 5 parts.
-1) List the websites you used to validate your code and what they are for.
-2) Go through the user stories you wrote in the UX part of your ready, and explain how your website meets those needs.
-3) Write about how each part of your responsive website behaves on different screen sizes.
-
-And if you want to knock the grade for testing all the way up to the max:
-4) Manually go though every part of your site and write out how you confirmed that each link, hover effect and other interactive parts of the site work as you expect.
-5) List any bugs you came across while creating the site and while testing it. Include the fixes you came up with. (I have two sections here, one for fixed bugs and one for bugs I have not found a solution for yet.)
-
-
 # Hull College Testing 
 
-[Main README.md file](/README.md)
+[Main README file](/README.md)
 
 [View live project](https://mjjstockman.github.io/hull-college)
-
-[View website in GitHub Pages](https://github.com/mjjstockman/hull-college)
-
 
 ***
 ## Table of contents
@@ -27,6 +13,7 @@ And if you want to knock the grade for testing all the way up to the max:
      - [Browser Validation](#Browser-Validation)
      - [Lighthouse Auditing](#Lighthouse-Auditing)
 4. [User Testing](#User-Testing)
+5. [Issues and Bugs](##-Issues-and-bugs)
 ***
 
 ## Testing User Stories
@@ -101,11 +88,11 @@ The following devices and orientation were tested:
 ## Automated Testing
 
 ### Code Validation
-#### HTML
+### HTML
 The [W3C Markup Validator](https://validator.w3.org/) was used to validate the HTML.  This detected three warnings relating to only using h1 elements as top-level headings.  This was ignored because the use of h1's fitted the design of the site, especially as a one page design.
 <img src="assets/images/html-validation.avif" alt="The three warnings detected by the HTML validator">
 
-#### CSS
+### CSS
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors or warnings were found.
 <img src="assets/images/css-validation.avif" alt="No errors found on W3C CSS validator">
 
@@ -146,7 +133,6 @@ Many thanks to [Naoise Gaffney](https://www.linkedin.com/in/naoisegaffney/) for 
 
 [Back to top ⇧](#Hull-College-Testing)
 
-
 ## Issues and Bugs 
 A number of bugs and issues were encountered during the sites development, as detailed below.  
 
@@ -155,9 +141,9 @@ Some images had a small amount of white space below them.  This is beacuse image
 
 The page was taking a long time to load.  This was fixed by reducing the file size of images used.  This was initally done using [TinyPNG](https://tinypng.com/), a smart lossy image compression tool and [Squoosh](https://squoosh.app) was used later in development to change all images into AVIF format to further reduce their file size.
 
-The sticky header (with the logo and navigation) initially displayed behind the iframe map.  This issue was sovled by adding a z-index of 1 to the header.  This suggestion was found [here](https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling) 
+The sticky header (with the logo and navigation) initially displayed behind the iframe map.  This issue was sovled by adding a z-index of 1 to the header.  This suggestion was found [here](https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling).
 
-The [following](https://validator.w3.org) showed errors for the description and keywords meta tags in the head.  This was due to mismatching quotation marks, as seen below:
+The [HTML Validator](https://validator.w3.org) showed errors for the description and keywords meta tags in the head.  This was due to mismatching quotation marks, as seen below:
 <img src="assets/images/quotation.avif" alt="Inccorect quotation marks for meta tags">
 
 [Back to top ⇧](#Hull-College-Testing)

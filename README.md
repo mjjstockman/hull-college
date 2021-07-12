@@ -4,12 +4,43 @@
 
 [View the live project here](https://mjjstockman.github.io/hull-college/).
 
-## Introduction
+***
+## Table of contents
+1. [Introduction](#Introduction)
+2. [UX and Design](#UX-and-design)
+    - [User Demographics](##User-Demographics)
+    - [User Stories](##User-Stories)
+    - [Wireframes](##Wireframes)
+    - [Changes to the design throughout development](##Changes-to-the-design-throughout-development)
+    - [Colour Scheme](##Colour-Scheme)
+    - [Typography](##typography)
+3. [Features](#Features) 
+     - [Navigation and Header](##Navigation-and-Header)
+     - [Hero Image](##Hero-Image)
+     - [About Information Box](##About-Information-Box)
+     - [Award Winning and Student Satisfaction](##Award-Winning-and-Student-Satisfaction)
+     - [About Information Box](##About-Information-Box)
+     - [Courses Section](##Courses-Section)
+     - [Contact Section](##Contact-Section)
+     - [Footer](##Footer)
+4. [Future Features](#Features-to-Implement-in-the-future)
+5. [Testing](#Testing)
+6. [Deployment](#Deployment)
+    - [How the site was Deployed](##How-the-site-was-Deployed)
+    - [How to Fork the Repository](##How-to-Fork-the-Repository)
+    - [How to create a Clone](##How-to-create-a-Clone-using-SSH)
+7. [Credits](#Credits)
+    - [Images](##Images)
+    - [Acknowledgements](##Acknowledgements)
+    - [Images](##Images)
+***
+
+# Introduction
 
 This is a fictional website (for educational purposes) for potential students to find basic information about **Hull College** in East Yorkshire, England.  It gives basic information on the college's success, the courses offered and a way to contact them so users can gauge the suitability of the college.  
 
 [Back to top ⇧](#Hull-College)
-# UX Design
+# UX and Design
 
 ## User Demographics
 The target market are individuals who are wanting to find out more about the college to see if they want to enrol. It is not for current students.
@@ -24,14 +55,14 @@ The target market are individuals who are wanting to find out more about the col
 4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.
 
 [Back to top ⇧](#Hull-College)
-# Wireframes
+## Wireframes
 
 | Small screens |Medium screens  | Large screens |
 |--|--|--|
 | <img  src="assets/images/small-new.avif"  alt="Wireframe of small screen"> | <img  src="assets/images/medium-new.avif"  alt="Wireframe of medium screen"> | <img  src="assets/images/large-new.avif"  alt="Wireframe of large screen">|
 
 [Back to top ⇧](#Hull-College)
-## How the wireframes changed throughout development
+## Changes to the design throughout development
 The original design was slightly different to the above wireframes.  The following particualrs were changed during implementation to better the user experience and aesthetics:
 
 The header was changed so that the logo was centered and the navigation drops underneath when the scrren is reduced to a particular size.  This meant that the navigation links did not get too close together.
@@ -41,11 +72,10 @@ Form labels were moved above their inputs, placeholders removed and all inputs a
 A map showing the colleges location was added to the contact section.
 
 [Back to top ⇧](#Hull-College)
-# Design
 ## Colour Scheme
 Blue was chosen as the main colour for the site. Research had shown that this is a colour associated with reliability, productivity, trust and order, which are the principles the college wish to promote.
 
- Coolors.co was then used to find a mix of blues for the main colour platette, with the following decided upon:
+ [Coolors](https://coolors.co/) was then used to find a mix of blues for the main colour platette, with the following decided upon:
 
  - Header: #03045e 
  - About: #caf0f8 
@@ -63,14 +93,14 @@ Blue was chosen as the main colour for the site. Research had shown that this is
 [Back to top ⇧](#Hull-College)
 ## Typography
 
-Typespiration.com was used to find complimenting Google Font pairings, with the following decided upon:
+[Typespiration](https://typespiration.com/) was used to find complimenting [Google Font](https://fonts.google.com) pairings, with the following decided upon:
 
 - Headings: Roboto Condensed, with a fallback of sans-serif.
 - Body: Poppins, with a fallback of sans-serif.
 
 [Back to top ⇧](#Hull-College)
 # Features
-## Hero Image
+## Navigation and Header
 
 The navigation bar allows the user to easily select which area of the site they wish to view. It will be located at the top of the site as this is common practice and is the area where most users eyes will be initially drawn to. It will be 'sticky', meaning it will stay at the top of the users screen even when they scroll the site. This is because the site is a one page design and it is essential for the user to always be able to navigate the site wherever their current position. When a link is hovered over it becomes underlined to help the user confirm they are about to select the relevant link. The underline remains once selected and the relevant navigation link is highlighted when the site is scrolled.
 
@@ -125,6 +155,7 @@ Details on site testing can be found [here](TESTING.md).
 
 [Back to top ⇧](#Hull-College)
 # Deployment
+## How the site was Deployed
 The code was deployed to GitHub Pages in the following way:
 1. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
 2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
@@ -164,12 +195,11 @@ $ git clone https://github.com/mjjstockman/hull-college
 
 Many thanks to the following which were used throughout the creation of this site:
 - [w3c Markup Validator](https://validator.w3.org)
-- [Adobe] (https://stock.adobe.com)
+- [Adobe Stock Image](https://stock.adobe.com)
 - [Am I Responsive?](http://ami.responsivedesign.is)
-- [Avif.io](https://avif.io/)
 - [Balsamiq](https://balsamiq.com/)
 - [Coolors](https://coolors.co/)
-- [Design Course](https://www.youtube.com/watch?v=z9H7p1_iI14)
+- [Design Course tutorial](https://www.youtube.com/watch?v=z9H7p1_iI14)
 - [Favicon.io](https://favicon.io)
 - [Font Awesome](https://fontawesome.com)
 - [Free Formatter](https://www.freeformatter.com/)
@@ -187,11 +217,11 @@ Many thanks to the following which were used throughout the creation of this sit
 - [Typespiration](https://typespiration.com/)
 
 [Back to top ⇧](#Hull-College)
-### Images
+## Images
 
-The Hero image was taken from [Adobe] (https://stock.adobe.com/)
+The Hero image was taken from [Adobe Stock Image](https://stock.adobe.com/).
 
-All other images were taken from [Pexels](https://www.pexels.com/)
+All other images were taken from [Pexels](https://www.pexels.com/).
 
 [Back to top ⇧](#Hull-College)
 ## Acknowledgements
