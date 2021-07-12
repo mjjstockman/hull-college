@@ -69,6 +69,7 @@ And if you want to knock the grade for testing all the way up to the max:
 
 ## Manual Testing
 
+Manually go though every part of your site and write out how you confirmed that each link, hover effect and other interactive parts of the site work as you expect.
 ADD IF HAVE TIME, IF NOT ADD TO INCOMPLETE FEATURES IN README
 
 [Back to top ⇧](#Kryan-Live---Testing)

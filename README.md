@@ -1,9 +1,14 @@
-# Hull College
+# Hull College 
+
+<img  src="assets/images/amiresponsive.avif"  alt="Mockup of the Hull College website on a phone, tablet, laptop and monitor screen">
+
+[View the live project here](https://mjjstockman.github.io/hull-college/).
 
 ## Introduction
 
 This is a fictional website (for educational purposes) for potential students to find basic information about **Hull College** in East Yorkshire, England.  It gives basic information on the college's success, the courses offered and a way to contact them so users can gauge the suitability of the college.  
 
+[Back to top ⇧](#Hull-College)
 # UX Design
 
 ## User Demographics
@@ -46,7 +51,7 @@ Blue was chosen as the main colour for the site. Research had shown that this is
  - Contact: #00b4d8   
  - Footer: #0077b6
 
-  <img  src="assets/images/blue-colours.avif"  alt="Blue colour scheme from Coolors.co">
+<img  src="assets/images/blue-colours.avif"  alt="Blue colour scheme from Coolors.co">
 
 - Main text: #12130f
 - Navigation and footer text/icons: #fffafa
@@ -125,55 +130,45 @@ The code was deployed to GitHub Pages in the following way:
 3. Click "Fork" at the top right of the page.
 4. The repository will be copied into your GitHub account.
 
-## How to create a Clone
+## How to create a Clone using SSH
 1. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
-2. 
-
-1. Install the [GitPod Browser](https://www.gitpod.io/docs/browser-extension/) Chrome extension.
-2. Refresh the browser once installation has finished.
-3. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
-4. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
-5. Click "GitPod" in the top right hand corner.
-
-On GitHub, navigate to the main page of the repository.
-Above the list of files, click Code.
-To clone the repository using HTTPS, under "Clone with HTTPS", click . ...
-Open Terminal .
-Change the current working directory to the location where you want the cloned directory.
-
-
-On GitHub, navigate to the main page of the repository.
-Above the list of files, click Code.
-To clone the repository using HTTPS, under "Clone with HTTPS", click . ...
-Open Terminal .
-Change the current working directory to the location where you want the cloned directory.
+2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
+3. Click on the Code button.
+4. Copy the provided SSH link.
+<img  src="assets/images/code-dropdown.avif"  alt="Example of the provided link">
+5. Open Terminal.
+6. Navigate into the directory you want to clone the repositry to.
+7. Type git clone and paste the copied URL.
+```
+$ git clone https://github.com/mjjstockman/hull-college
+```
+8. Press **Enter**.
 
 # Credits
 
 Many thanks to the following which were used throughout the creation of this site:
-- [Typespiration](https://typespiration.com/)
-- [Coolors](https://coolors.co/)
-- [Font Awesome](https://fontawesome.com/)
-- [Pexels](https://www.pexels.com/)
-- [TinyPNG](https://tinypng.com/)
-- [Balsamiq](https://balsamiq.com/)
-- [Am I Responsive](http://ami.responsivedesign.is/)
 - [w3c Markup Validator](https://validator.w3.org)
-- [lighthouse](https://developers.google.com/web/tools/lighthouse)
+- [Adobe] (https://stock.adobe.com)
+- [Am I Responsive?](http://ami.responsivedesign.is)
 - [Avif.io](https://avif.io/)
-- [Malsu Codepen](https://codepen.io/malsu/pen/VwKzoPG)
-- [Squoosh](https://squoosh.app/)
+- [Balsamiq](https://balsamiq.com/)
+- [Coolors](https://coolors.co/)
 - [Design Course](https://www.youtube.com/watch?v=z9H7p1_iI14)
+- [Favicon.io](https://favicon.io)
+- [Font Awesome](https://fontawesome.com)
 - [Free Formatter](https://www.freeformatter.com/)
 - [Google Fonts](https://fonts.google.com)
-- [Font Awesome](https://fontawesome.com)
-- [Supercooldesign](https://supercooldesign.co.uk/blog/how-to-write-good-alt-text)
 - [Git](https://git-scm.com)
 - [GitHub](https://github.com)
-- [Am I Responsive?](http://ami.responsivedesign.is)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - [Looka](https://looka.com/)
-- [Favicon.io](https://favicon.io)
-
+- [Malsu Codepen](https://codepen.io/malsu/pen/VwKzoPG)
+- [Pexels](https://www.pexels.com)
+- [Responsinator](http://www.responsinator.com)
+- [Squoosh](https://squoosh.app)
+- [Super Cool Design](https://supercooldesign.co.uk/blog/how-to-write-good-alt-text)
+- [TinyPNG](https://tinypng.com/)
+- [Typespiration](https://typespiration.com/)
 
 
 ### Images
