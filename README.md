@@ -1,6 +1,6 @@
 # Hull College
 
-<img  src="assets/images/amiresponsive.avif"  alt="Mockup of the Hull College website on a phone, tablet, laptop and monitor screen">
+<img  src="assets/images/readme/amiresponsive.avif"  alt="Mockup of the Hull College website on a phone, tablet, laptop and monitor screen">
 
 [View the live project here](https://mjjstockman.github.io/hull-college/).
 
@@ -65,7 +65,7 @@ The target market are individuals who are wanting to find out more about the col
 
 | Small screens | Medium screens | Largescreens |
 | --------------| -------------- | ------------ |
-| <img  src="assets/images/small-new.avif"  alt="Wireframe of small screen"> | <img  src="assets/images/medium-new.avif"  alt="Wireframe of medium screen"> | <img  src="assets/images/large-new.avif"  alt="Wireframe of large screen"> |
+| <img  src="assets/images/readme/wireframe-small.avif"  alt="Wireframe of small screen"> | <img  src="assets/images/readme/wireframe-medium.avif"  alt="Wireframe of medium screen"> | <img  src="assets/images/readme/wireframe-large.avif"  alt="Wireframe of large screen"> |
 
 [Back to top ⇧](#Hull-College)
 
@@ -93,7 +93,7 @@ Blue was chosen as the main colour for the site. Research had shown that this is
 - Contact: #00b4d8
 - Footer: #0077b6
 
-<img  src="assets/images/blue-colours.avif"  alt="Blue colour scheme from Coolors.co">
+<img  src="assets/images/readme/blue-colours.avif"  alt="Blue colour scheme from Coolors.co">
 
 - Main text: #12130f
 - Navigation and footer text/icons: #fffafa
@@ -194,12 +194,12 @@ The code was deployed to GitHub Pages in the following way:
 2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
 3. Open Settings by clicking on the Settings link (with the cog icon).
 4. Scroll down to the GitHub Pages section and click on the link.
-   <img  src="assets/images/github-pages.avif"  alt="GitHub Pages section">
+   <img  src="assets/images/readme/github-pages.avif"  alt="GitHub Pages section">
 5. Click the dropdown box in the Source section (which currently states "none") and select master (this may be named "main" for some users).
-   <img  src="assets/images/github-source.avif"  alt="Selecting master branch as source">
+   <img  src="assets/images/readme/github-source.avif"  alt="Selecting master branch as source">
 6. Click Save.
 7. The URL address for the deployed site will be shown.
-   <img  src="assets/images/deployed-address.avif"  alt="Example of URL once deployed">
+   <img  src="assets/images/readme/deployed-address.avif"  alt="Example of URL once deployed">
 
 [Back to top ⇧](#Hull-College)
 
@@ -218,7 +218,7 @@ The code was deployed to GitHub Pages in the following way:
 2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
 3. Click on the Code button.
 4. Copy the provided SSH link.
-   <img  src="assets/images/code-dropdown.avif"  alt="Example of the provided link">
+   <img  src="assets/images/readme/code-dropdown.avif"  alt="Example of the provided link">
 5. Open Terminal.
 6. Navigate into the directory you want to clone the repositry to.
 7. Type git clone and paste the copied URL.

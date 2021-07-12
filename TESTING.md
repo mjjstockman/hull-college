@@ -30,25 +30,25 @@
    - The name of the course is capatlised and in a different colour the body text to stand out.
    - Icons from Font Awesome are used before and after the courses heading, once again to draw the users attention and make the subjects more memorable.
 
-    <img src="assets/images/courses-section.avif" alt="Screenshot of courses section">
+    <img src="assets/images/testing/courses-section.avif" alt="Screenshot of courses section">
 
 2. As a potential student, I want to see some general "about" text so I can confirm that I am on the correct site for my needs.
 
    - The about section contains a paragraph of introductionary text, letting the user quickly understand the purpose of the site.
 
-    <img src="assets/images/about-intro-section.avif" alt="Screenshot of about introduction section">
+    <img src="assets/images/testing/about-intro-section.avif" alt="Screenshot of about introduction section">
 
 3. As a potential student, I want to see facts and figures on student satisfaction so I can gauge whether I want to enroll.
 
    - The about section contains information on the student satisfaction.
 
-    <img src="assets/images/about-student-satisfaction-section.avif" alt="Screenshot of student satisfaction section">
+    <img src="assets/images/testing/about-student-satisfaction-section.avif" alt="Screenshot of student satisfaction section">
 
 4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.
 
    - The contact section has a form to send the college a questions/messages.
 
-    <img src="assets/images/contact-section-form.avif" alt="Screenshot of student satisfaction section">
+    <img src="assets/images/testing/contact-section-form.avif" alt="Screenshot of student satisfaction section">
 
 [Back to top ⇧](#Hull-College-Testing)
 
@@ -97,12 +97,12 @@ The following devices and orientation were tested:
 ### HTML
 
 The [W3C Markup Validator](https://validator.w3.org/) was used to validate the HTML. This detected three warnings relating to only using h1 elements as top-level headings. This was ignored because the use of h1's fitted the design of the site, especially as a one page design.
-<img src="assets/images/html-validation.avif" alt="The three warnings detected by the HTML validator">
+<img src="assets/images/testing/html-validation.avif" alt="The three warnings detected by the HTML validator">
 
 ### CSS
 
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors or warnings were found.
-<img src="assets/images/css-validation.avif" alt="No errors found on W3C CSS validator">
+<img src="assets/images/testing/css-validation.avif" alt="No errors found on W3C CSS validator">
 
 [Back to top ⇧](#Hull-College-Testing)
 
