@@ -15,7 +15,7 @@
    - [Browser Validation](#Browser-Validation)
    - [Lighthouse Auditing](#Lighthouse-Auditing)
 4. [User Testing](#User-Testing)
-5. [Issues and Bugs](##-Issues-and-bugs)
+5. [Issues and Bugs](#Issues-and-bugs)
 
 ---
 
