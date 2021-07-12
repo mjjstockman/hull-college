@@ -11,7 +11,7 @@
     - [User Demographics](#User-Demographics)
     - [User Stories](#User-Stories)
     - [Wireframes](#Wireframes)
-    - [Changes to the design throughout development](##Changes-to-the-design-throughout-development)
+    - [Changes to the design throughout development](#Changes-to-the-design-throughout-development)
     - [Colour Scheme](#Colour-Scheme)
     - [Typography](#typography)
 3. [Features](#Features) 
