@@ -36,7 +36,7 @@ And if you want to knock the grade for testing all the way up to the max:
 ***
 
 ## Testing User Stories
-[Back to top ⇧](#Hull College--Testing)
+[Back to top ⇧](#Hull-College--Testing)
 #### Potential Students:
 1. As a potential student, I want to quickly see what courses are offered so I can see if they are of interest.
 
