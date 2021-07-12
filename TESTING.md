@@ -14,13 +14,14 @@ And if you want to knock the grade for testing all the way up to the max:
 
 
 
-# Hull College - Testing 
+# Hull College Testing 
 
 [Main README.md file](/README.md)
 
-[View live project](https://rebeccatraceyt.github.io/KryanLive/)
+[View live project](https://mjjstockman.github.io/hull-college/)
 
-[View website in GitHub Pages](https://github.com/rebeccatraceyt/KryanLive)
+[View website in GitHub Pages](https://github.com/mjjstockman/hull-college)
+
 
 ***
 ## Table of contents
@@ -31,12 +32,10 @@ And if you want to knock the grade for testing all the way up to the max:
      - [Browser Validation](#Browser-Validation)
      - [Lighthouse Auditing](#Lighthouse-Auditing)
 4. [User Testing](#User-Testing)
-
-
 ***
 
 ## Testing User Stories
-[Back to top ⇧](#Hull-College--Testing)
+[Back to top ⇧](#Hull-College-Testing)
 #### Potential Students:
 1. As a potential student, I want to quickly see what courses are offered so I can see if they are of interest.
 
@@ -65,7 +64,7 @@ And if you want to knock the grade for testing all the way up to the max:
 
      <img src="assets/images/contact-section-form.avif" alt="Screenshot of student satisfaction section">
 
-[Back to top ⇧](#Kryan-Live---Testing)
+[Back to top ⇧](#Hull-College-Testing)
 
 ## Manual Testing
 All links on the site and within its documentation were checked to make sure they are working.
@@ -79,7 +78,7 @@ ADD IF HAVE TIME, IF NOT ADD TO INCOMPLETE FEATURES IN README
 
 http://www.responsinator.com/
 
-[Back to top ⇧](#Kryan-Live---Testing)
+[Back to top ⇧](#Hull-College-Testing)
 
 ## Automated Testing
 
@@ -95,8 +94,9 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the CSS.
 
 **Results:**
-![Style sheet validation results](assets/testing-files/automated/style.png)
+![Style sheet validation results](assets/pdf/lighthouse-report.pdf)
 
+[Back to top ⇧](#Hull-College-Testing)
 ### Browser Validation
 - Chrome - [test image](assets/testing-files/automated/chrome.png)
 - Safari - [test image](assets/testing-files/automated/safari.png)
@@ -104,11 +104,13 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used t
 - Opera - [test image](assets/testing-files/automated/opera.png)
 - Firefox - [test image](assets/testing-files/automated/firefox.png)
 
+[Back to top ⇧](#Hull-College-Testing)
+
 ### Lighthouse Auditing
 - Click [here](assets/testing-files/automated/lighthouse.pdf) for full report
 - No recommendations in this report have been implemented in the first release but will be looked into for future releases.
 
-[Back to top ⇧](#Kryan-Live---Testing)
+[Back to top ⇧](#Hull-College-Testing)
 
 ## User testing 
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. Their helpful advice throughout the process led to many UX changes in order to create a better experience. 
@@ -118,7 +120,7 @@ It was through this testing that the following changes were made:
 - Change to Navbar font-size on mobile for clearer reading.
 - Complete overhaul of Live page in order to display the information in a more user-friendly way.
 
-[Back to top ⇧](#Kryan-Live---Testing)
+[Back to top ⇧](#Hull-College-Testing)
 
 
 ## Issues and Bugs 
@@ -135,3 +137,5 @@ https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-f
 HTML validation (at https://validator.w3.org/) showed errors for the description and keywords meta tags in the head.  This was due to mismatching quotation marks, as seen below:
 
 <img src="assets/images/quotation.avif" alt="Inccorect quotation marks for meta tags">
+
+[Back to top ⇧](#Hull-College-Testing)
