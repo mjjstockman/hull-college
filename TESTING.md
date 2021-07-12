@@ -9,16 +9,11 @@ And if you want to knock the grade for testing all the way up to the max:
 5) List any bugs you came across while creating the site and while testing it. Include the fixes you came up with. (I have two sections here, one for fixed bugs and one for bugs I have not found a solution for yet.)
 
 
-
-
-
-
-
 # Hull College Testing 
 
 [Main README.md file](/README.md)
 
-[View live project](https://mjjstockman.github.io/hull-college/)
+[View live project](https://mjjstockman.github.io/hull-college)
 
 [View website in GitHub Pages](https://github.com/mjjstockman/hull-college)
 
@@ -67,36 +62,55 @@ And if you want to knock the grade for testing all the way up to the max:
 [Back to top ⇧](#Hull-College-Testing)
 
 ## Manual Testing
-All links on the site and within its documentation were checked to make sure they are working.
+- All links on the site and within its documentation were checked to make sure they are working.
 
+- All form inputs and the textarea were checked to be required by attempting to send the form without an input.  
 
-all links checked
+- The email input was checked by attempting to send an invalid email address.
 
+- The maximum length allowed within the Contact message textarea was checked by attempting to enter a message of over 400 characters.
 
-Manually go though every part of your site and write out how you confirmed that each link, hover effect and other interactive parts of the site work as you expect.
-ADD IF HAVE TIME, IF NOT ADD TO INCOMPLETE FEATURES IN README
+### Checking the Responsivness
 
-http://www.responsinator.com/
+[Responsinator](http://www.responsinator.com) was used to check the following responsive features:
+
+- The logo is centered and the navigation drops at a maximum screen width of 689px. 
+- The navigation links highlighting changes at acceptable sroll points.
+- All images are displayed at an acceptable size ratio on all screens.
+- Images in the Award Winning and Student Satisfaction areas change at acceptable break points.
+- The form and map in the Contact section stack at an acceptable break point.
+- Spacing changes at acceptable break point.
+
+The following devices and orientation were tested:
+
+|  Device 	|  Orientation 	|  Screen width 	|  
+|---	|---	|---	|
+|  iPhone X	|  portrait 	|  375px 	|   	
+|  iPhone X	|  landscape 	|  734px 	| 
+|  Android (Pixel 2)	|  portrait 	|  412px 	| 
+|  Android (Pixel 2)	|  landscape 	|  684px 	| 
+|  iPhone 6-8	|  portrait 	|  375px 	| 
+|  iPhone 6-8	|  landscape 	|  667px 	| 
+|  iPhone 6-8 Plus	|  portrait 	|  375px 	| 
+|  iPhone 6-8 Plus	|  landscape 	|  667px 	| 
+|  iPad	|  portrait 	|  768px 	| 
+|  iPad	|  landscape 	|  1024px 	| 
 
 [Back to top ⇧](#Hull-College-Testing)
 
 ## Automated Testing
 
 ### Code Validation
-The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the HTML.
+#### HTML
+The [W3C Markup Validator](https://validator.w3.org/) was used to validate the HTML.  This detected three warnings relating to only using h1 elements as top-level headings.  This was ignored because the use of h1's fitted the design of the site, especially as a one page design.
+<img src="assets/images/html-validation.avif" alt="The three warnings detected by the HTML validator">
 
-**Results:**
-
-- Home Page
-
-     ![Home Page HTML Validation Results](assets/testing-files/automated/home.png)
-
-The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the CSS.
-
-**Results:**
-![Style sheet validation results](assets/pdf/lighthouse-report.pdf)
+#### CSS
+The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors or warnings were found.
+<img src="assets/images/css-validation.avif" alt="No errors found on W3C CSS validator">
 
 [Back to top ⇧](#Hull-College-Testing)
+
 ### Browser Validation
 The site was tested on the following browsers:
 - Chrome 
@@ -116,7 +130,7 @@ The site was tested on the following browsers:
 ## User testing 
 Numerous peers and friends helped to review the site and its development, with the following issues found and fixed:
 
-Many thanks to [Matt Boden] (https://github.com/MattBCoding) for the following sugestions:
+Many thanks to [Matt Boden](https://github.com/MattBCoding) for the following sugestions:
 
 - A favicon was added.
 
@@ -126,19 +140,9 @@ Many thanks to [Matt Boden] (https://github.com/MattBCoding) for the following s
 
 - The size of the text within the Submit button was capatalised and increased in size.
 
-Many thanks to **[Naoise Gaffney]**(https://www.linkedin.com/in/naoisegaffney/) for the following advice:
+Many thanks to [Naoise Gaffney](https://www.linkedin.com/in/naoisegaffney/) for the following advice:
 
 - Mismatched quotation marks were used within the head.  These were changed.
-
-
-
-ADD THANKS??
-
-
-And finally, a personal one from me, i'd make the submit text on the submit button a little larger, I feel it stands out being so small in comparison to everything else, but its just a personal thing that i'd change.
-
-
-
 
 [Back to top ⇧](#Hull-College-Testing)
 
@@ -146,16 +150,14 @@ And finally, a personal one from me, i'd make the submit text on the submit butt
 ## Issues and Bugs 
 A number of bugs and issues were encountered during the sites development, as detailed below.  
 
-Some images had a small amount of white space below them.  This is beacuse images are inline elements and therefore treated as text and assumed to have descenders.  Research found that the white space can be removed by declaring the image as a block level element.
-https://mor10.com/removing-white-space-image-elements-inline-elements-descenders/
+Some images had a small amount of white space below them.  This is beacuse images are inline elements and therefore treated as text and assumed to have descenders.  Research found [here](https://mor10.com/removing-white-space-image-elements-inline-elements-descenders) explains that the white space can be removed by declaring the image as a block level element.
 
-The page was taking a long time to load.  This was fixed by reducing the file size of images used.  This was initally done using Tiny PNG, a smart lossy image compression tool (https://tinypng.com/).  All images were later changed to AVIF format to further reduce their size by using https://squoosh.app/.
 
-The sticky header (with the logo and navigation) initially displayed behind the iframe map.  This issue was sovled by adding a z-index of 1 to the header.
-https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling
+The page was taking a long time to load.  This was fixed by reducing the file size of images used.  This was initally done using [TinyPNG](https://tinypng.com/), a smart lossy image compression tool and [Squoosh](https://squoosh.app) was used later in development to change all images into AVIF format to further reduce their file size.
 
-HTML validation (at https://validator.w3.org/) showed errors for the description and keywords meta tags in the head.  This was due to mismatching quotation marks, as seen below:
+The sticky header (with the logo and navigation) initially displayed behind the iframe map.  This issue was sovled by adding a z-index of 1 to the header.  This suggestion was found [here](https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling) 
 
+The [following](https://validator.w3.org) showed errors for the description and keywords meta tags in the head.  This was due to mismatching quotation marks, as seen below:
 <img src="assets/images/quotation.avif" alt="Inccorect quotation marks for meta tags">
 
 [Back to top ⇧](#Hull-College-Testing)
