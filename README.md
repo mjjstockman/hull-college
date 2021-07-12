@@ -125,42 +125,58 @@ The code was deployed to GitHub Pages in the following way:
 3. Click "Fork" at the top right of the page.
 4. The repository will be copied into your GitHub account.
 
-  ## How to create a Clone
-  CCCCCCHHHHHHHHEEEEEECCCCCKKKKKKKK
+## How to create a Clone
+1. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
+2. 
+
 1. Install the [GitPod Browser](https://www.gitpod.io/docs/browser-extension/) Chrome extension.
 2. Refresh the browser once installation has finished.
 3. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
 4. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
 5. Click "GitPod" in the top right hand corner.
 
+On GitHub, navigate to the main page of the repository.
+Above the list of files, click Code.
+To clone the repository using HTTPS, under "Clone with HTTPS", click . ...
+Open Terminal .
+Change the current working directory to the location where you want the cloned directory.
+
+
+On GitHub, navigate to the main page of the repository.
+Above the list of files, click Code.
+To clone the repository using HTTPS, under "Clone with HTTPS", click . ...
+Open Terminal .
+Change the current working directory to the location where you want the cloned directory.
+
 # Credits
 
 Many thanks to the following which were used throughout the creation of this site:
-[Typespiration](https://typespiration.com/)
-[Coolors](https://coolors.co/)
-[Font Awesome](https://fontawesome.com/)
-[Pexels](https://www.pexels.com/)
-[TinyPNG](https://tinypng.com/)
-[Balsamiq](https://balsamiq.com/)
-[Am I Responsive](http://ami.responsivedesign.is/)
-[w3c Markup Validator](https://validator.w3.org)
-[lighthouse](https://developers.google.com/web/tools/lighthouse)
-[Convertico](https://convertio.co/)
-[Avif.io](https://avif.io/)
-[AAAAAAAAAADDDDDDDDDDD](https://codepen.io/malsu/pen/VwKzoPG)
-[Squoosh](https://squoosh.app/)
-[AAAAAAAAAADDDDDDDDDDD](https://www.youtube.com/watch?v=z9H7p1_iI14)
-[Free Formatter](https://www.freeformatter.com/)
-[Google Fonts](https://fonts.google.com/)
-[Font Awesome](https://supercooldesign.co.uk/blog/how-to-write-good-alt-text)
-[Supercooldesign](https://fontawesome.com/)
-[Git](https://git-scm.com/)
-[GitHub](https://github.com/)
-[Am I Responsive?](http://ami.responsivedesign.is)
-AAAAAAAAAAAAAAAAADDDDDDDDDDDDDDDDDDDD 
+- [Typespiration](https://typespiration.com/)
+- [Coolors](https://coolors.co/)
+- [Font Awesome](https://fontawesome.com/)
+- [Pexels](https://www.pexels.com/)
+- [TinyPNG](https://tinypng.com/)
+- [Balsamiq](https://balsamiq.com/)
+- [Am I Responsive](http://ami.responsivedesign.is/)
+- [w3c Markup Validator](https://validator.w3.org)
+- [lighthouse](https://developers.google.com/web/tools/lighthouse)
+- [Avif.io](https://avif.io/)
+- [Malsu Codepen](https://codepen.io/malsu/pen/VwKzoPG)
+- [Squoosh](https://squoosh.app/)
+- [Design Course](https://www.youtube.com/watch?v=z9H7p1_iI14)
+- [Free Formatter](https://www.freeformatter.com/)
+- [Google Fonts](https://fonts.google.com)
+- [Font Awesome](https://fontawesome.com)
+- [Supercooldesign](https://supercooldesign.co.uk/blog/how-to-write-good-alt-text)
+- [Git](https://git-scm.com)
+- [GitHub](https://github.com)
+- [Am I Responsive?](http://ami.responsivedesign.is)
+- [Looka](https://looka.com/)
+- [Favicon.io](https://favicon.io)
 
 
-### Media
+
+### Images
 
 The Hero image was taken from [Adobe] (https://stock.adobe.com/)
 

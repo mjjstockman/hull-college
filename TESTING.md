@@ -119,8 +119,7 @@ A number of bugs and issues were encountered during the sites development, as de
 Some images had a small amount of white space below them.  This is beacuse images are inline elements and therefore treated as text and assumed to have descenders.  Research found that the white space can be removed by declaring the image as a block level element.
 https://mor10.com/removing-white-space-image-elements-inline-elements-descenders/
 
-The page was taking a long time to load.  This was fixed by reducing the file size of images used.  ADD TINY PNG. LATER CHANGES TO AVIF https://convertio.co/ https://avif.io/
-https://tinypng.com/
+The page was taking a long time to load.  This was fixed by reducing the file size of images used.  This was initally done using Tiny PNG, a smart lossy image compression tool (https://tinypng.com/).  All images were later changed to AVIF format to further reduce their size by using https://squoosh.app/.
 
 The sticky header (with the logo and navigation) initially displayed behind the iframe map.  This issue was sovled by adding a z-index of 1 to the header.
 https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling
