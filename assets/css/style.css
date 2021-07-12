@@ -1,413 +1,464 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Condensed&display=swap');
 
 /* Set the scroll-padding to compensate for sticky header */
+
 html {
-    scroll-padding-top: 81px; 
+	scroll-padding-top: 81px;
 }
+
 
 /* Browser resest */
+
 * {
-    padding: 0;
-    margin: 0;
-    border: 0;
-    box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
 }
+
 
 /* Body font and colour */
+
 body {
-    font-family: 'Poppins', sans-serif;
-    color: #12130f;
+	font-family: 'Poppins', sans-serif;
+	color: #12130f;
 }
 
+
 /* Make all images within a section responsive */
+
 section img,
 #hero-image {
-    width: 100%;
-    height: auto;
+	width: 100%;
+	height: auto;
 }
+
 
 /* headings */
 
+
 /* h1 and h2 styling */
+
 h1,
 h2 {
-    font-family: "Roboto Condensed", sans-serif;
-    text-transform: uppercase;
-    font-size: 150%;
-    letter-spacing: 0.1em;
-    text-align: center;
-    padding: 1em 0 0.5em;
+	font-family: "Roboto Condensed", sans-serif;
+	text-transform: uppercase;
+	font-size: 150%;
+	letter-spacing: 0.1em;
+	text-align: center;
+	padding: 1em 0 0.5em;
 }
 
+
 /* change h2 font size */
+
 h2 {
-    font-size: 125%;
+	font-size: 125%;
 }
+
 
 /* header */
 
 header {
-    padding: 1em;
-    background-color: #03045e;
-    color: #FFFAFA;
-    overflow: hidden;
-    z-index: 1;
+	padding: 1em;
+	background-color: #03045e;
+	color: #FFFAFA;
+	overflow: hidden;
+	z-index: 1;
 }
 
+
 /* make header sticky */
+
 .sticky {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
 }
 
+
 /* logo */
+
+
 /* size and position logo */
+
 #logo img {
-    float: left;
-    height: 50px;
-    padding-right: 0.25em;
+	float: left;
+	height: 50px;
+	padding-right: 0.25em;
 }
+
 
 /* size and position logo heading  */
+
 #logo h1 {
-    font-size: 150%;
-    float: left;
-    line-height: 50px;
-    padding: 0;
+	font-size: 150%;
+	float: left;
+	line-height: 50px;
+	padding: 0;
 }
+
 
 /* navigation */
+
+
 /* size and position navigation */
+
 nav {
-    float: right;
-    font-size: 110%;
-    letter-spacing: 0.1em;
-    line-height: 50px;
+	float: right;
+	font-size: 110%;
+	letter-spacing: 0.1em;
+	line-height: 50px;
 }
+
 
 /* size and position navigation links */
+
 nav li {
-    float: left;
-    color: #fffafa;
-    list-style-type: none;
+	float: left;
+	color: #fffafa;
+	list-style-type: none;
 }
+
 
 /* add margin to all navigation links after the first */
+
 nav li+li {
-    margin-left: 1em;
+	margin-left: 1em;
 }
+
 
 /* remove all text derocation from navigation links and change color */
+
 nav a {
-    text-decoration: none;
-    color: #fffafa;
+	text-decoration: none;
+	color: #fffafa;
 }
+
 
 /* add underline to navigation on hover and active */
+
 nav a:hover,
 .active {
-    border-bottom: 2px solid #fffafa;
+	border-bottom: 2px solid #fffafa;
 }
+
 
 /* hero img */
+
+
 /* make hero image fullscreen */
+
 #hero-image {
-    display: block;
+	display: block;
 }
 
+
 /* about section */
+
+
 /* add overflow: hidden so background-color fills area */
-#about { 
-    background-color: #caf0f8;
-    padding: 0 5em;
-    overflow: hidden;
+
+#about {
+	background-color: #caf0f8;
+	padding: 0 5em;
+	overflow: hidden;
 }
 
 .award-container h3 {
-    color: #800080;
+	color: #800080;
 }
 
 .award-container,
 .satisfaction-container {
-    float: left;
-    width: 25%;
-    padding: 2em;
-    text-align: center;
+	float: left;
+	width: 25%;
+	padding: 2em;
+	text-align: center;
 }
 
 .award-container div {
-    height: 200px;
+	height: 200px;
 }
 
+
 /* set a max-width so images don't become too stretched */
+
 .award-container img {
-    max-width: 300px;
-    height: 200px;
+	max-width: 300px;
+	height: 200px;
 }
 
 #satisfaction-heading {
-    clear: both;
+	clear: both;
 }
 
 .satisfaction-container div {
-    font-size: 450%;
-    color: #800080;
+	font-size: 450%;
+	color: #800080;
 }
 
+
 /* courses section */
+
+
 /* add overflow: hidden so background-color fills area */
+
 #courses {
-    clear: both;
-    overflow: hidden;
-    padding: 0 5em;
-    background-color: #90e0ef;
+	clear: both;
+	overflow: hidden;
+	padding: 0 5em;
+	background-color: #90e0ef;
 }
 
 #courses p {
-    padding-bottom: 1em;
+	padding-bottom: 1em;
 }
 
 .courses-container {
-    float: left;
-    width: 33.3%;
-    padding: 1em;
+	float: left;
+	width: 33.3%;
+	padding: 1em;
 }
 
+
 /* set the color of Font Awseome icons within the courses-container */
+
 .courses-container i {
-    color: #12130F;
+	color: #12130F;
 }
 
 .courses-container h2 {
-    padding-top: 0.25em;
-    color: #800080;
+	padding-top: 0.25em;
+	color: #800080;
 }
 
+
 /* contact section */
+
+
 /* add overflow: hidden so background-color fills area */
+
 #contact {
-    clear: both;
-    background-color: #00b4d8;
-    overflow: hidden;
-    padding: 0 3em 2em;
+	clear: both;
+	background-color: #00b4d8;
+	overflow: hidden;
+	padding: 0 3em 2em;
 }
 
 form {
-    float: left;
-    width: 48%;
-    border: 2px solid #12130f;
-    border-radius: 15px;
-    padding: 2em 2em;
+	float: left;
+	width: 48%;
+	border: 2px solid #12130f;
+	border-radius: 15px;
+	padding: 2em 2em;
 }
 
+
 /* add display: inline-block so label takes up 100% size of parent but can still have a margin-bottom */
+
 label {
-    margin-bottom: 0.25em;
-    display: inline-block;
+	margin-bottom: 0.25em;
+	display: inline-block;
 }
 
 input {
-    width: 100%;
-    padding: 1em;
-    margin-bottom: 1.75em;
-    border-radius: 5px;
+	width: 100%;
+	padding: 1em;
+	margin-bottom: 1.75em;
+	border-radius: 5px;
 }
 
 textarea {
-    width: 100%;
-    height: 120px;
-    padding: 1em;
-    resize: none;
-    border-radius: 5px;
+	width: 100%;
+	height: 120px;
+	padding: 1em;
+	resize: none;
+	border-radius: 5px;
 }
 
 #form-message {
-    padding-bottom: 1em;
+	padding-bottom: 1em;
 }
 
 input[type=submit] {
-    margin-bottom: 1em;
-    background-color: #faf482;
-    color: #800080;
-    font-size: 125%;
-    font-weight: bold;
-    border: 1px solid #12130f;
+	margin-bottom: 1em;
+	background-color: #faf482;
+	color: #800080;
+	font-size: 125%;
+	font-weight: bold;
+	border: 1px solid #12130f;
 }
 
+
 /* map */
+
 .mapouter {
-    position: relative;
-    text-align: right;
-    width: 100%;
+	position: relative;
+	text-align: right;
+	width: 100%;
 }
 
 .gmap_canvas {
-    float: right;
-    overflow: hidden;
-    background: none !important;
-    width: 48%;
-    border: 2px solid #12130f;
-    border-radius: 15px;
+	float: right;
+	overflow: hidden;
+	background: none !important;
+	width: 48%;
+	border: 2px solid #12130f;
+	border-radius: 15px;
 }
 
 .gmap_iframe {
-    height: 604px !important;
-    width: 100%;
-    display: block;
+	height: 604px !important;
+	width: 100%;
+	display: block;
 }
 
+
 /* footer */
+
 footer {
-    clear: both;
+	clear: both;
 }
 
 #social-networks {
-    text-align: center;
-    background-color: #0077b6;
+	text-align: center;
+	background-color: #0077b6;
 }
 
+
 /* display: inline to position next to each other horizontaly */
+
 #social-networks>li {
-    display: inline;
+	display: inline;
 }
 
 #social-networks li+li {
-    margin-left: 10%;
+	margin-left: 10%;
 }
 
 #social-networks i {
-    font-size: 206%;
-    color: #fffafa;
-    padding: 0.25em 0;
+	font-size: 206%;
+	color: #fffafa;
+	padding: 0.25em 0;
 }
 
+
 /* media queries */
+
+
 /* fix issue with nav not showing correct active highlight */
+
 @media screen and (max-width: 1439px) {
-    html {
-        scroll-padding-top: 0; 
-    }
+	html {
+		scroll-padding-top: 0;
+	}
 }
 
 @media screen and (max-width: 952px) {
-    /* about section */
-    #about, 
-    #courses {
-        padding: 0 2.5em;
-    }
-
-    .award-container {
-        width: 50%;
-    }
-
-    /* courses section */
-    /* place in rows of 2 */
-    .courses-container,
-    .satisfaction-container {
-        float: left;
-        width: 50%;
-        padding: 1em;
-    }
-
-    /* contact section */
-    /* make form full width */
-    form {
-        float: none;
-        width: 100%;
-        margin-bottom: 2em;
-    }
-
-    textarea {
-        height: 100px;
-    }
-
-    /* map */
-    .gmap_canvas {
-        float: none;
-        width: 100%;
-        border: 2px solid #12130f;
-        border-radius: 15px;
-    }
+	/* about section */
+	#about,
+	#courses {
+		padding: 0 2.5em;
+	}
+	.award-container {
+		width: 50%;
+	}
+	/* courses section */
+	/* place in rows of 2 */
+	.courses-container,
+	.satisfaction-container {
+		float: left;
+		width: 50%;
+		padding: 1em;
+	}
+	/* contact section */
+	/* make form full width */
+	form {
+		float: none;
+		width: 100%;
+		margin-bottom: 2em;
+	}
+	textarea {
+		height: 100px;
+	}
+	/* map */
+	.gmap_canvas {
+		float: none;
+		width: 100%;
+		border: 2px solid #12130f;
+		border-radius: 15px;
+	}
 }
 
 @media screen and (max-width: 689px) {
-    /* componsate for sticky nav */
-    html {
-        scroll-padding-top: 108px; 
-    }
-
-    #logo img {
-        float: none;
-        vertical-align: middle;
-    }
-
-    #logo h1 {
-        float: none;
-    }
-
-    nav {
-        width: 100%;
-        line-height: unset;
-    }
-
-    nav li {
-        float: left;
-        text-align: center;
-        width: 33.3%;
-        font-size: 100%;
-        padding: 0;
-    }
-
-    /* remove margin from li */
-    nav li+li {
-        margin: 0;
-    }
-
-    #about,
-    #courses {
-        padding: 0 1.5em;
-    }
-
-    .courses-container {
-        width: 100%;
-    }
-
-    #logo img {
-        height: 50px;
-    }
+	/* componsate for sticky nav */
+	html {
+		scroll-padding-top: 108px;
+	}
+	#logo img {
+		float: none;
+		vertical-align: middle;
+	}
+	#logo h1 {
+		float: none;
+	}
+	nav {
+		width: 100%;
+		line-height: unset;
+	}
+	nav li {
+		float: left;
+		text-align: center;
+		width: 33.3%;
+		font-size: 100%;
+		padding: 0;
+	}
+	/* remove margin from li */
+	nav li+li {
+		margin: 0;
+	}
+	#about,
+	#courses {
+		padding: 0 1.5em;
+	}
+	.courses-container {
+		width: 100%;
+	}
+	#logo img {
+		height: 50px;
+	}
 }
 
 @media screen and (max-width: 565px) {
-    /* componsate for sticky nav */
-    html {
-        scroll-padding-top: 107px; 
-    }
-
-    /* make full screen */
-    .courses-container,
-    .satisfaction-container,
-    .award-container {
-        width: 100%;
-    }   
+	/* componsate for sticky nav */
+	html {
+		scroll-padding-top: 107px;
+	}
+	/* make full screen */
+	.courses-container,
+	.satisfaction-container,
+	.award-container {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 500px) {
-    #contact {
-        padding: 0 1em 2em;
-    }
+	#contact {
+		padding: 0 1em 2em;
+	}
 }
 
 @media screen and (max-width: 370px) {
-   /* reduce font size so not so close together */
-    nav li {
-        font-size: 95%;
-    }
+	/* reduce font size so not so close together */
+	nav li {
+		font-size: 95%;
+	}
 }
 
 @media screen and (max-width: 340px) {
-     /* reduce size so font awseome icon stays next to the student satisfaction h2 */
-    h2 {
-        font-size: 110%;
-    }
+	/* reduce size so font awseome icon stays next to the student satisfaction h2 */
+	h2 {
+		font-size: 110%;
+	}
 }
