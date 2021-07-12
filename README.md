@@ -32,7 +32,6 @@
 7. [Credits](#Credits)
     - [Images](#Images)
     - [Acknowledgements](#Acknowledgements)
-    - [Images](#Images)
 ***
 
 # Introduction
