@@ -23,13 +23,14 @@ The target market are individuals who are wanting to find out more about the col
 
 4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.
 
+[Back to top ⇧](#Hull-College)
 # Wireframes
 
 | Small screens |Medium screens  | Large screens |
 |--|--|--|
 | <img  src="assets/images/small-new.avif"  alt="Wireframe of small screen"> | <img  src="assets/images/medium-new.avif"  alt="Wireframe of medium screen"> | <img  src="assets/images/large-new.avif"  alt="Wireframe of large screen">|
 
-
+[Back to top ⇧](#Hull-College)
 ## How the wireframes changed throughout development
 The original design was slightly different to the above wireframes.  The following particualrs were changed during implementation to better the user experience and aesthetics:
 
@@ -39,6 +40,7 @@ Form labels were moved above their inputs, placeholders removed and all inputs a
 
 A map showing the colleges location was added to the contact section.
 
+[Back to top ⇧](#Hull-College)
 # Design
 ## Colour Scheme
 Blue was chosen as the main colour for the site. Research had shown that this is a colour associated with reliability, productivity, trust and order, which are the principles the college wish to promote.
@@ -58,6 +60,7 @@ Blue was chosen as the main colour for the site. Research had shown that this is
 - Accent color: #800080
 - Sumbit button: #faf482
 
+[Back to top ⇧](#Hull-College)
 ## Typography
 
 Typespiration.com was used to find complimenting Google Font pairings, with the following decided upon:
@@ -65,6 +68,7 @@ Typespiration.com was used to find complimenting Google Font pairings, with the 
 - Headings: Roboto Condensed, with a fallback of sans-serif.
 - Body: Poppins, with a fallback of sans-serif.
 
+[Back to top ⇧](#Hull-College)
 # Features
 ## Hero Image
 
@@ -72,45 +76,54 @@ The navigation bar allows the user to easily select which area of the site they 
 
  The 'hamburger' icon was not used on small screens (where the navigation bar will collapse and be represented as three horizontal lines. When touched/clicked, this would reveal the navigation in a dropdown menu). This is often done due to the limited real estate space making the text hard to read when the screen is this size. However, this design was not used to make the site more easy to navigate for all users. Furthermore the navigation only contains three links so they have the space to remain next to each other still on small screens without causing accessibility and design issues. However, the logo will be centred and the navigation drop below at a particular screen width. 
 
+[Back to top ⇧](#Hull-College)
 ## Hero Image
 
 An eye-catching full screen image is placed under the navigation. This helps grab the users attention and convey positive, professional feelings.
 
+[Back to top ⇧](#Hull-College)
 ## About Information Box
 A small box containing introductory information is placed below the hero image. This is eye-catching and quickly confirms to the user that they are on the correct site. It offers general information on the college so users quickly get a feel for its achievements.
 
+[Back to top ⇧](#Hull-College)
  ## Award Winning and Student Satisfaction
 
 A brief description of the four awards the college has won is displayed under cartoon images of awards. Beneath these are statistics of student success and recommendations. These help to install confidence in the quality of the college and help conversion rates of those viewing the site to enrol. Larger screens display the awards and statistics four in a row, reducing to two and then stacked on top of each other as screens get smaller. This is to give the user the best experience in terms of accessibility and usability. These sections mirror each other to help give the site a sense of balance.
 
+[Back to top ⇧](#Hull-College)
 ## Courses Section
 This section contains images for the courses available at the college so users can quickly see if they offer a course they are interested in. Icons from Font Awesome are used for the courses to add visual interest and to make each course quickly identifiable and more memorable. On large screens the courses are displayed three in a row, changing to two and then one as the screen gets smaller.
 
+[Back to top ⇧](#Hull-College)
 ## Contact Section
 This section allows the user to easily contact the college by using a form to send a message. The fields are clearly marked, all required and the email field must contain a valid email. The message is limited to 400 characters to keep them succinct and reduce the amount of characters needed to be stored in the database. The Submit button is a bright distinctive colour, acting as a call to action for the user.
 
 A map showing the college's location is also included in this section, allowing users to quickly identify where the college is based.
 
+[Back to top ⇧](#Hull-College)
 ## Footer
 The footer feature at the bottom of the page contains links to Hull Colleges social media links. This will help users find more information and stay up to date with the college. The links open in a new tab so users are not taken away from Hull College's website. They are the same colour as those in the navigation for consistency and to help them stand out.
 
+[Back to top ⇧](#Hull-College)
 # Features to Implement in the future
 Add a dropdown to each course in the Courses section containg information on the course.
 
 # Technologies Used
-
 ## Main Languages Used
 - HTML
 - CSS
 
+[Back to top ⇧](#Hull-College)
 ## Additional Languages Used
 
 - Javascript was used to change the highlighted navigation link on scroll.
 
+[Back to top ⇧](#Hull-College)
 # Testing
 
 Details on site testing can be found [here](TESTING.md).
 
+[Back to top ⇧](#Hull-College)
 # Deployment
 The code was deployed to GitHub Pages in the following way:
 1. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
@@ -124,12 +137,14 @@ The code was deployed to GitHub Pages in the following way:
 7. The URL address for the deployed site will be shown.
 <img  src="assets/images/deployed-address.avif"  alt="Example of URL once deployed">
 
+[Back to top ⇧](#Hull-College)
 ## How to Fork the Repository
 1. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
 2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
 3. Click "Fork" at the top right of the page.
 4. The repository will be copied into your GitHub account.
 
+[Back to top ⇧](#Hull-College)
 ## How to create a Clone using SSH
 1. Log into [GitHub](https://github.com/login) or [create an account](https://github.com/join).
 2. Select the [GitHub Repository](https://github.com/mjjstockman/hull-college).
@@ -144,6 +159,7 @@ $ git clone https://github.com/mjjstockman/hull-college
 ```
 8. Press **Enter**.
 
+[Back to top ⇧](#Hull-College)
 # Credits
 
 Many thanks to the following which were used throughout the creation of this site:
@@ -170,16 +186,16 @@ Many thanks to the following which were used throughout the creation of this sit
 - [TinyPNG](https://tinypng.com/)
 - [Typespiration](https://typespiration.com/)
 
-
+[Back to top ⇧](#Hull-College)
 ### Images
 
 The Hero image was taken from [Adobe] (https://stock.adobe.com/)
 
 All other images were taken from [Pexels](https://www.pexels.com/)
 
- [Back to top ⇧](#Kryan-Live)
+[Back to top ⇧](#Hull-College)
 ## Acknowledgements
 - Many thanks to my mentor for guidance.
 - Thank you to the Code Institute Slack community for their advice.
 
-[Back to top ⇧](#Kryan-Live)
+[Back to top ⇧](#Hull-College)
