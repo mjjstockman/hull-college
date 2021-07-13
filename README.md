@@ -168,6 +168,8 @@ Add a dropdown to each course in the Courses section containing information on t
 
 Add script to dynamically display how many characters are left for the form textarea.
 
+The active navigation highlighting does not always work correctly on scroll.  This feature was not fixed as the use of JavaScript is outside the scope of the project.
+
 # Technologies Used
 
 ## Main Languages Used
@@ -279,5 +281,6 @@ All other images were taken from [Pexels](https://www.pexels.com/).
 
 - Many thanks to my mentor for guidance.
 - Thank you to the Code Institute Slack community for their advice.
+- A wonderful [README.md](https://github.com/rebeccatraceyt/KryanLive) by [Rebecca Tracey-Timoney](https://github.com/rebeccatraceyt) was used for inspiration and guidance.
 
 [Back to top ⇧](#Hull-College)
