@@ -88,6 +88,8 @@ The following devices and orientation were tested:
 | iPad              | portrait    | 768px        |
 | iPad              | landscape   | 1024px       |
 
+- All sizes of screens were also checked using [Google Chrome Inspector](https://developer.chrome.com/docs/devtools).
+
 [Back to top ⇧](#Hull-College-Testing)
 
 ## Automated Testing
