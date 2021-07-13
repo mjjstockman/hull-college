@@ -6,22 +6,21 @@
 
 ---
 
-## Table of Contents
+# Table of Contents
 
 1. [Testing User Stories](#Testing-User-Stories)
 2. [Manual Testing](#Manual-Testing)
-   - [Code Validation](#Code-Validation)
+   - [Checking Responsiveness](#Checking-the-Responsiveness)
    - [Browser Validation](#Browser-Validation)
 3. [Automated Testing](#Automated-Testing)
    - [Code Validation](#Code-Validation)
-   - [Browser Validation](#Browser-Validation)
    - [Lighthouse Auditing](#Lighthouse-Auditing)
 4. [User Testing](#User-Testing)
 5. [Issues and Bugs](#Issues-and-Bugs)
 
 ---
 
-## Testing User Stories
+# Testing User Stories
 
 [Back to top ⇧](#Hull-College-Testing)
 
@@ -54,7 +53,7 @@
 
 [Back to top ⇧](#Hull-College-Testing)
 
-## Manual Testing
+# Manual Testing
 
 - All links on the site and within its documentation were checked to make sure they are working.
 
@@ -93,7 +92,6 @@ The following devices and orientation were tested:
 | iPad              | portrait    | 768px        |
 | iPad              | landscape   | 1024px       |
 
-- All sizes of screens were also checked using [Google Chrome Inspector](https://developer.chrome.com/docs/devtools).
 
 [Back to top ⇧](#Hull-College-Testing)
 
@@ -107,16 +105,16 @@ The site was tested on the following browsers:
 - Opera
 - Firefox
 
-### Automated Testing
+# Automated Testing
 
-### Code Validation
+## Code Validation
 
-### HTML
+## HTML
 
 The [W3C Markup Validator](https://validator.w3.org/) was used to validate the HTML. This detected three warnings relating to only using h1 elements as top-level headings. This was ignored because the use of h1's fitted the design of the site, especially as a one-page design.
 <img src="assets/images/testing/html-validation.avif" alt="The three warnings detected by the HTML validator">
 
-### CSS
+## CSS
 
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors or warnings were found.
 <img src="assets/images/testing/css-validation.avif" alt="No errors found on W3C CSS validator">
@@ -124,14 +122,14 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validat
 [Back to top ⇧](#Hull-College-Testing)
 
 
-### Lighthouse Auditing
+## Lighthouse Auditing
 
 - Lighthouse was used to audit the site and the report can be found [here](assets/pdf/lighthouse-report.pdf).
 - Although useful, no changes were made to improve its ratings as this was outside the scope of this project and its time restrictions.
 
 [Back to top ⇧](#Hull-College-Testing)
 
-## User Testing
+# User Testing
 
 Numerous peers and friends helped to review the site and its development, with the following issues found and fixed:
 
@@ -151,7 +149,7 @@ Many thanks to [Naoise Gaffney](https://www.linkedin.com/in/naoisegaffney/) for 
 
 [Back to top ⇧](#Hull-College-Testing)
 
-## Issues and Bugs
+# Issues and Bugs
 
 A number of bugs and issues were encountered during the sites development, as detailed below.
 
