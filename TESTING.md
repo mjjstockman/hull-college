@@ -116,8 +116,13 @@ The [W3C Markup Validator](https://validator.w3.org/) was used to validate the H
 
 ## CSS
 
-The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors or warnings were found.
-<img src="assets/images/testing/css-validation.avif" alt="No errors found on W3C CSS validator">
+The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors were found.  Two warnings were detected, stating:
+- Imported style sheets are not checked in direct input and file upload modes.
+- -webkit-sticky is an unknown vendor extension
+
+<img src="assets/images/testing/css-validation.avif" alt="The two CSS validation warnings">
+
+These were not acted upon as they are deemed to be acceptable warnings.
 
 [Back to top ⇧](#Hull-College-Testing)
 
