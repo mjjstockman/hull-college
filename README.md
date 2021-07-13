@@ -8,7 +8,7 @@
 
 ## Table of contents
 
-1. [Introduction](#Introduction)
+1. [Introdxxxuction](#Introduction)
 2. [UX and Design](#UX-and-design)
    - [User Demographics](#User-Demographics)
    - [User Stories](#User-Stories)
