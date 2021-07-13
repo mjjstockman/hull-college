@@ -71,11 +71,22 @@
 [Responsinator](http://www.responsinator.com) was used to check the following responsive features:
 
 - The logo is centered and the navigation drops at a maximum screen width of 689px.
-- The navigation links highlighting changes at acceptable scroll points.
+
+<img  src="assets/images/testing/nav-stacked.avif"  alt="The header with logo on top and navigation below">
+
+- The navigation links highlights changes at acceptable scroll points.
 - All images are displayed at an acceptable size ratio on all screens.
-- Images in the Award Winning and Student Satisfaction areas change at acceptable break points.
+- Images in the Award Winning and Student Satisfaction areas change size and positioning at acceptable break points.
+<img  src="assets/images/testing/about-2-columns.avif"  alt="About section with Awards and Satisfaction in 2 columns">
+<img  src="assets/images/testing/award-stacked.avif"  alt="About section with Awards stacked in single columns">
+<img  src="assets/images/testing/satisfaction-stacked.avif"  alt="About section with Student Satisfaction stacked in single columns">
+
 - The form and map in the Contact section stack at an acceptable break point.
-- Spacing changes at acceptable break point.
+<img  src="assets/images/testing/contact-stacked.avif"  alt="Contact section stacked in single columns">
+
+*Please note the empty box at the bottom displays a map on the deployed site.*
+
+- Spacing changes at acceptable break points.
 
 The following devices and orientation were tested:
 

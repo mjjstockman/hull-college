@@ -122,11 +122,16 @@ The navigation bar allows the user to easily select which area of the site they 
 
 The 'hamburger' icon was not used on small screens (where the navigation bar will collapse and be represented as three horizontal lines. When touched/clicked, this would reveal the navigation in a dropdown menu). This is often done due to the limited real estate space making the text hard to read when the screen is this size. However, this design was not used to make the site more easy to navigate for all users. Furthermore, the navigation only contains three links, so they have the space to remain next to each other still on small screens without causing accessibility and design issues. However, the logo will be centered and the navigation drop below at a particular screen width.
 
+<img  src="assets/images/readme/nav.avif"  alt="Header at full screen">
+
+
 [Back to top ⇧](#Hull-College)
 
 ## Hero Image
 
 An eye-catching full screen image is placed under the navigation. This helps grab the users attention and convey positive, professional feelings.
+
+<img  src="assets/images/index/class.avif"  alt="The hero image">
 
 [Back to top ⇧](#Hull-College)
 
@@ -134,17 +139,24 @@ An eye-catching full screen image is placed under the navigation. This helps gra
 
 A small box containing introductory information is placed below the hero image. This is eye-catching and quickly confirms to the user that they are on the correct site. It offers general information on the college, so users quickly get a feel for its achievements.
 
+<img  src="assets/images/readme/about-info.avif"  alt="The About information box">
+
 [Back to top ⇧](#Hull-College)
 
 ## Award Winning and Student Satisfaction
 
 A brief description of the four awards the college has won is displayed under cartoon images of awards. Beneath these are statistics of student success and recommendations. These help to install confidence in the quality of the college and help conversion rates of those viewing the site to enrol. Larger screens display the awards and statistics four in a row, reducing to two and then stacked on top of each other as screens get smaller. This is to give the user the best experience in terms of accessibility and usability. These sections mirror each other to help give the site a sense of balance.
 
+<img  src="assets/images/readme/award.avif"  alt="Award Winning area">
+<img  src="assets/images/readme/satisfaction.avif"  alt="Student Satisfaction area">
+
 [Back to top ⇧](#Hull-College)
 
 ## Courses Section
 
 This section contains images for the courses available at the college, so users can quickly see if they offer a course they are interested in. Icons from Font Awesome are used for the courses to add visual interest and to make each course quickly identifiable and more memorable. On large screens the courses are displayed three in a row, changing to two and then one as the screen gets smaller.
+
+<img  src="assets/images/readme/courses-3-columns.avif"  alt="Courses section">
 
 [Back to top ⇧](#Hull-College)
 
@@ -154,11 +166,17 @@ This section allows the user to easily contact the college by using a form to se
 
 A map showing the college's location is also included in this section, allowing users to quickly identify where the college is based.
 
+<img  src="assets/images/readme/contact-2-columns.avif"  alt="Contact area">
+
+*Please note the empty box on the left displays a map on the deployed site.*
+
 [Back to top ⇧](#Hull-College)
 
 ## Footer
 
 The footer feature at the bottom of the page contains links to Hull Colleges social media links. This will help users find more information and stay up to date with the college. The links open in a new tab, so users are not taken away from Hull College's website. They are the same colour as those in the navigation for consistency and to help them stand out.
+
+<img  src="assets/images/readme/footer.avif"  alt="Footer section">
 
 [Back to top ⇧](#Hull-College)
 
