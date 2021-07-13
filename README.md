@@ -2,13 +2,15 @@
 
 <img  src="assets/images/readme/amiresponsive.avif"  alt="Mockup of the Hull College website on a phone, tablet, laptop and monitor screen">
 
-[View the live project here](https://mjjstockman.github.io/hull-college/).
+*Image created and taken from [Am I Responsive](ami.responsivedesign.is)*
+
+[View the live project here](https://mjjstockman.github.io/hull-college).
 
 ---
 
 ## Table of contents
 
-1. [Introdxxxuction](#Introduction)
+1. [Introduction](#Introduction)
 2. [UX and Design](#UX-and-design)
    - [User Demographics](#User-Demographics)
    - [User Stories](#User-Stories)
@@ -39,7 +41,7 @@
 
 # Introduction
 
-This is a fictional website (for educational purposes) for potential students to find basic information about **Hull College** in East Yorkshire, England. It gives basic information on the college's success, the courses offered and a way to contact them so users can gauge the suitability of the college.
+This is a fictional website (for educational purposes) for potential students to find basic information about **Hull College** in East Yorkshire, England. It gives basic information on the college's success, the courses offered and a way to contact them, so users can gauge the suitability of the college.
 
 [Back to top ⇧](#Hull-College)
 
@@ -51,13 +53,13 @@ The target market are individuals who are wanting to find out more about the col
 
 ## User Stories
 
-1. As a potential student, I want to quickly see what courses are offered so I can see if they are of interest.
+1. As a potential student, I want to quickly see what courses are offered, so I can see if they are of interest.
 
-2. As a potential student, I want to see some general "about" text so I can confirm that I am on the correct site for my needs.
+2. As a potential student, I want to see some general "about" text, so I can confirm that I am on the correct site for my needs.
 
-3. As a potential student, I want to see facts and figures on student satisfaction so I can gauge whether I want to enrol.
+3. As a potential student, I want to see facts and figures on student satisfaction, so I can gauge whether I want to enrol.
 
-4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.
+4. As a potential student, I want to be able to contact the college, so that I can ask any questions I have.
 
 [Back to top ⇧](#Hull-College)
 
@@ -71,9 +73,9 @@ The target market are individuals who are wanting to find out more about the col
 
 ## Changes to the design throughout development
 
-The original design was slightly different to the above wireframes. The following particualrs were changed during implementation to better the user experience and aesthetics:
+The original design was slightly different to the above wireframes. The following particulars were changed during implementation to better the user experience and aesthetics:
 
-The header was changed so that the logo was centered and the navigation drops underneath when the scrren is reduced to a particular size. This meant that the navigation links did not get too close together.
+The header was changed so that the logo was centered and the navigation drops underneath when the screen is reduced to a particular size. This meant that the navigation links did not get too close together.
 
 Form labels were moved above their inputs, placeholders removed and all inputs and the submit button were stacked and the same width.
 
@@ -85,7 +87,7 @@ A map showing the colleges location was added to the contact section.
 
 Blue was chosen as the main colour for the site. Research had shown that this is a colour associated with reliability, productivity, trust and order, which are the principles the college wish to promote.
 
-[Coolors](https://coolors.co/) was then used to find a mix of blues for the main colour platette, with the following decided upon:
+[Coolors](https://coolors.co/) was then used to find a mix of blues for the main colour palette, with the following decided upon:
 
 - Header: #03045e ![#f03c15](https://via.placeholder.com/15/03045e/000000?text=+)
 - About: #caf0f8 ![#caf0f8](https://via.placeholder.com/15/caf0f8/000000?text=+)
@@ -98,7 +100,7 @@ Blue was chosen as the main colour for the site. Research had shown that this is
 - Main text: #12130f ![#12130f](https://via.placeholder.com/15/12130f/000000?text=+)
 - Navigation and footer text/icons: #fffafa ![#fffafa](https://via.placeholder.com/15/fffafa/000000?text=+)
 - Accent color: #800080 ![#800080](https://via.placeholder.com/15/800080/000000?text=+)
-- Sumbit button: #faf482 ![#faf482](https://via.placeholder.com/15/faf482/000000?text=+)
+- Submit button: #faf482 ![#faf482](https://via.placeholder.com/15/faf482/000000?text=+)
 
 [Back to top ⇧](#Hull-College)
 
@@ -115,9 +117,9 @@ Blue was chosen as the main colour for the site. Research had shown that this is
 
 ## Navigation and Header
 
-The navigation bar allows the user to easily select which area of the site they wish to view. It will be located at the top of the site as this is common practice and is the area where most users eyes will be initially drawn to. It will be 'sticky', meaning it will stay at the top of the users screen even when they scroll the site. This is because the site is a one page design and it is essential for the user to always be able to navigate the site wherever their current position. When a link is hovered over it becomes underlined to help the user confirm they are about to select the relevant link. The underline remains once selected and the relevant navigation link is highlighted when the site is scrolled.
+The navigation bar allows the user to easily select which area of the site they wish to view. It will be located at the top of the site as this is common practice and is the area where most users eyes will be initially drawn to. It will be 'sticky', meaning it will stay at the top of the users screen even when they scroll the site. This is because the site is a one-page design and it is essential for the user to always be able to navigate the site wherever their current position. When a link is hovered over it becomes underlined to help the user confirm they are about to select the relevant link. The underline remains once selected and the relevant navigation link is highlighted when the site is scrolled.
 
-The 'hamburger' icon was not used on small screens (where the navigation bar will collapse and be represented as three horizontal lines. When touched/clicked, this would reveal the navigation in a dropdown menu). This is often done due to the limited real estate space making the text hard to read when the screen is this size. However, this design was not used to make the site more easy to navigate for all users. Furthermore the navigation only contains three links so they have the space to remain next to each other still on small screens without causing accessibility and design issues. However, the logo will be centred and the navigation drop below at a particular screen width.
+The 'hamburger' icon was not used on small screens (where the navigation bar will collapse and be represented as three horizontal lines. When touched/clicked, this would reveal the navigation in a dropdown menu). This is often done due to the limited real estate space making the text hard to read when the screen is this size. However, this design was not used to make the site more easy to navigate for all users. Furthermore, the navigation only contains three links, so they have the space to remain next to each other still on small screens without causing accessibility and design issues. However, the logo will be centered and the navigation drop below at a particular screen width.
 
 [Back to top ⇧](#Hull-College)
 
@@ -129,7 +131,7 @@ An eye-catching full screen image is placed under the navigation. This helps gra
 
 ## About Information Box
 
-A small box containing introductory information is placed below the hero image. This is eye-catching and quickly confirms to the user that they are on the correct site. It offers general information on the college so users quickly get a feel for its achievements.
+A small box containing introductory information is placed below the hero image. This is eye-catching and quickly confirms to the user that they are on the correct site. It offers general information on the college, so users quickly get a feel for its achievements.
 
 [Back to top ⇧](#Hull-College)
 
@@ -141,7 +143,7 @@ A brief description of the four awards the college has won is displayed under ca
 
 ## Courses Section
 
-This section contains images for the courses available at the college so users can quickly see if they offer a course they are interested in. Icons from Font Awesome are used for the courses to add visual interest and to make each course quickly identifiable and more memorable. On large screens the courses are displayed three in a row, changing to two and then one as the screen gets smaller.
+This section contains images for the courses available at the college, so users can quickly see if they offer a course they are interested in. Icons from Font Awesome are used for the courses to add visual interest and to make each course quickly identifiable and more memorable. On large screens the courses are displayed three in a row, changing to two and then one as the screen gets smaller.
 
 [Back to top ⇧](#Hull-College)
 
@@ -155,13 +157,13 @@ A map showing the college's location is also included in this section, allowing 
 
 ## Footer
 
-The footer feature at the bottom of the page contains links to Hull Colleges social media links. This will help users find more information and stay up to date with the college. The links open in a new tab so users are not taken away from Hull College's website. They are the same colour as those in the navigation for consistency and to help them stand out.
+The footer feature at the bottom of the page contains links to Hull Colleges social media links. This will help users find more information and stay up to date with the college. The links open in a new tab, so users are not taken away from Hull College's website. They are the same colour as those in the navigation for consistency and to help them stand out.
 
 [Back to top ⇧](#Hull-College)
 
 # Features to Implement in the future
 
-Add a dropdown to each course in the Courses section containg information on the course.
+Add a dropdown to each course in the Courses section containing information on the course.
 
 # Technologies Used
 
@@ -174,7 +176,7 @@ Add a dropdown to each course in the Courses section containg information on the
 
 ## Additional Languages Used
 
-- Javascript was used to change the highlighted navigation link on scroll.
+- JavaScript was used to change the highlighted navigation link on scroll.
 
 [Back to top ⇧](#Hull-College)
 
@@ -220,7 +222,7 @@ The code was deployed to GitHub Pages in the following way:
 4. Copy the provided SSH link.
    <img  src="assets/images/readme/code-dropdown.avif"  alt="Example of the provided link">
 5. Open Terminal.
-6. Navigate into the directory you want to clone the repositry to.
+6. Navigate into the directory you want to clone the repositroy to.
 7. Type git clone and paste the copied URL.
 
 ```

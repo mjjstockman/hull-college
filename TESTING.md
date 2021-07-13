@@ -156,6 +156,6 @@ The page was taking a long time to load. This was fixed by reducing the file siz
 The sticky header (with the logo and navigation) initially displayed behind the iframe map. This issue was solved by adding a z-index of 1 to the header. This suggestion was found [here](https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling).
 
 The [HTML Validator](https://validator.w3.org) showed errors for the description and keywords meta tags in the head. This was due to mismatching quotation marks, as seen below:
-<img src="assets/images/quotation.avif" alt="Inccorect quotation marks for meta tags">
+<img src="assets/images/testing/quotation.avif" alt="Inccorect quotation marks for meta tags">
 
 [Back to top ⇧](#Hull-College-Testing)
