@@ -40,7 +40,8 @@ section img,
 /* h1 and h2 styling */
 
 h1,
-h2 {
+h2,
+h3 {
 	font-family: "Roboto Condensed", sans-serif;
 	text-transform: uppercase;
 	font-size: 150%;
