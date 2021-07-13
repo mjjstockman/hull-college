@@ -69,6 +69,7 @@ The target market are individuals who are wanting to find out more about the col
 | --------------| -------------- | ------------ |
 | <img  src="assets/images/readme/wireframe-small.avif"  alt="Wireframe of small screen"> | <img  src="assets/images/readme/wireframe-medium.avif"  alt="Wireframe of medium screen"> | <img  src="assets/images/readme/wireframe-large.avif"  alt="Wireframe of large screen"> |
 
+*Images created and taken from [Balsamiq](https://balsamiq.com/wireframes)*
 [Back to top ⇧](#Hull-College)
 
 ## Changes to the design throughout development
@@ -164,6 +165,8 @@ The footer feature at the bottom of the page contains links to Hull Colleges soc
 # Features to Implement in the future
 
 Add a dropdown to each course in the Courses section containing information on the course.
+
+Add script to dynamically display how many characters are left for the form textarea.
 
 # Technologies Used
 
