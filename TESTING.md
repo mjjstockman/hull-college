@@ -6,16 +6,18 @@
 
 ---
 
-## Table of contents
+## Table of Contents
 
 1. [Testing User Stories](#Testing-User-Stories)
 2. [Manual Testing](#Manual-Testing)
+   - [Code Validation](#Code-Validation)
+   - [Browser Validation](#Browser-Validation)
 3. [Automated Testing](#Automated-Testing)
    - [Code Validation](#Code-Validation)
    - [Browser Validation](#Browser-Validation)
    - [Lighthouse Auditing](#Lighthouse-Auditing)
 4. [User Testing](#User-Testing)
-5. [Issues and Bugs](#Issues-and-bugs)
+5. [Issues and Bugs](#Issues-and-Bugs)
 
 ---
 
@@ -62,11 +64,10 @@
 
 - The maximum length allowed within the Contact message textarea was checked by attempting to enter a message of over 400 characters.
 
-## Identified future changes
+- Manual testing, using [Google Chrome Inspector](https://developer.chrome.com/docs/devtools), identified an issue with the highlighting of the correct navigation links, where they would occasionally not be removed when the area scrolled to is changed.  This was not addressed as it was outside the scope of the project.
 
-- Manual testing identified an issue with the highlighting of the correct navigation links, where they would occasionally not be removed when the area scrolled to is changed.  This was not addressed as it was outside the scope of the project.
 
-### Checking the Responsiveness
+## Checking the Responsiveness
 
 [Responsinator](http://www.responsinator.com) was used to check the following responsive features:
 
@@ -96,7 +97,17 @@ The following devices and orientation were tested:
 
 [Back to top ⇧](#Hull-College-Testing)
 
-## Automated Testing
+## Browser Validation
+
+The site was tested on the following browsers:
+
+- Chrome
+- Safari
+- Edge
+- Opera
+- Firefox
+
+### Automated Testing
 
 ### Code Validation
 
@@ -112,17 +123,6 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validat
 
 [Back to top ⇧](#Hull-College-Testing)
 
-### Browser Validation
-
-The site was tested on the following browsers:
-
-- Chrome
-- Safari
-- Edge
-- Opera
-- Firefox
-
-[Back to top ⇧](#Hull-College-Testing)
 
 ### Lighthouse Auditing
 
@@ -131,7 +131,7 @@ The site was tested on the following browsers:
 
 [Back to top ⇧](#Hull-College-Testing)
 
-## User testing
+## User Testing
 
 Numerous peers and friends helped to review the site and its development, with the following issues found and fixed:
 
