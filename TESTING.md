@@ -31,7 +31,7 @@
    - The name of the course is in block capitals and in a different colour the body text to stand out.
    - Icons from Font Awesome are used before and after the courses heading, once again to draw the users attention and make the subjects more memorable.
 
-    <img src="assets/images/testing/courses-section.avif" alt="Screenshot of courses section">
+    <img src="assets/images/testing/award-stacked.avif" alt="Screenshot of courses section">
 
 2. As a potential student, I want to see some general "about" text, so I can confirm that I am on the correct site for my needs.
 
@@ -76,10 +76,14 @@
 
 - The navigation links highlights changes at acceptable scroll points.
 - All images are displayed at an acceptable size ratio on all screens.
-- Images in the Award Winning and Student Satisfaction areas change size and positioning at acceptable break points.
-<img  src="assets/images/testing/about-2-columns.avif"  alt="About section with Awards and Satisfaction in 2 columns">
-<img  src="assets/images/testing/award-stacked.avif"  alt="About section with Awards stacked in single columns">
-<img  src="assets/images/testing/satisfaction-stacked.avif"  alt="About section with Student Satisfaction stacked in single columns">
+- Images in the Award Winning area change size and positioning at acceptable break points.
+<img  src="assets/images/testing/award-2-columns.avif"  alt="Award Winning images in 2 columns">
+<img  src="assets/images/testing/award-stacked.avif"  alt="Award Winning images in a single columns">
+
+- Images in the Student Satisfaction area change size and positioning at acceptable break points.
+<img  src="assets/images/testing/satisfaction-2-columns.avif"  alt="Student Satisfaction images in 2 columns">
+
+<img  src="assets/images/testing/satisfaction-stacked.avif"  alt="Student Satisfaction images in a single columns">
 
 - The form and map in the Contact section stack at an acceptable break point.
 <img  src="assets/images/testing/contact-stacked.avif"  alt="Contact section stacked in single columns">
