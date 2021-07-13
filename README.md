@@ -87,18 +87,18 @@ Blue was chosen as the main colour for the site. Research had shown that this is
 
 [Coolors](https://coolors.co/) was then used to find a mix of blues for the main colour platette, with the following decided upon:
 
-- Header: #03045e
-- About: #caf0f8
-- Courses: #90e0ef
-- Contact: #00b4d8
-- Footer: #0077b6
+- Header: #03045e ![#f03c15](https://via.placeholder.com/15/03045e/000000?text=+)
+- About: #caf0f8 ![#caf0f8](https://via.placeholder.com/15/caf0f8/000000?text=+)
+- Courses: #90e0ef ![#90e0ef](https://via.placeholder.com/15/90e0ef/000000?text=+)
+- Contact: #00b4d8 ![##00b4d8](https://via.placeholder.com/15/00b4d8/000000?text=+)
+- Footer: #0077b6 ![#0077b6](https://via.placeholder.com/15/0077b6/000000?text=+)
 
 <img  src="assets/images/readme/blue-colours.avif"  alt="Blue colour scheme from Coolors.co">
 
-- Main text: #12130f
-- Navigation and footer text/icons: #fffafa
-- Accent color: #800080
-- Sumbit button: #faf482
+- Main text: #12130f ![#12130f](https://via.placeholder.com/15/12130f/000000?text=+)
+- Navigation and footer text/icons: #fffafa ![#fffafa](https://via.placeholder.com/15/fffafa/000000?text=+)
+- Accent color: #800080 ![#800080](https://via.placeholder.com/15/800080/000000?text=+)
+- Sumbit button: #faf482 ![#faf482](https://via.placeholder.com/15/faf482/000000?text=+)
 
 [Back to top ⇧](#Hull-College)
 
@@ -252,11 +252,13 @@ Many thanks to the following which were used throughout the creation of this sit
 - [Looka](https://looka.com/)
 - [Malsu Codepen](https://codepen.io/malsu/pen/VwKzoPG)
 - [Pexels](https://www.pexels.com)
+- [Placeholder.com/](https://placeholder.com)
 - [Responsinator](http://www.responsinator.com)
 - [Squoosh](https://squoosh.app)
 - [Super Cool Design](https://supercooldesign.co.uk/blog/how-to-write-good-alt-text)
 - [TinyPNG](https://tinypng.com)
 - [Typespiration](https://typespiration.com)
+
 
 [Back to top ⇧](#Hull-College)
 
