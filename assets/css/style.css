@@ -37,7 +37,7 @@ section img,
 /* headings */
 
 
-/* h1 and h2 styling */
+/* headings styling */
 
 h1,
 h2,
@@ -253,6 +253,10 @@ form {
 	border: 2px solid #12130f;
 	border-radius: 15px;
 	padding: 2em 2em;
+}
+
+#accent-color {
+	color:#800080;
 }
 
 
