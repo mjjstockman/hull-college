@@ -62,6 +62,10 @@
 
 - The maximum length allowed within the Contact message textarea was checked by attempting to enter a message of over 400 characters.
 
+## Identified future changes
+
+- Manual testing identified an issue with the highlighting of the correct navigation links, where they would occasionally not be removed when the area scrolled to is changed.  This was not addressed as it was outside the scope of the project.
+
 ### Checking the Responsiveness
 
 [Responsinator](http://www.responsinator.com) was used to check the following responsive features:

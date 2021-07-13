@@ -354,11 +354,6 @@ footer {
 
 /* fix issue with nav not showing correct active highlight */
 
-@media screen and (max-width: 1439px) {
-	html {
-		scroll-padding-top: 0;
-	}
-}
 
 @media screen and (max-width: 952px) {
 	/* about section */
