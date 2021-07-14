@@ -24,7 +24,7 @@
 
 [Back to top ⇧](#Hull-College-Testing)
 
-1. As a potential student, I want to quickly see what courses are offered, so I can see if they are of interest.
+**1. As a potential student, I want to quickly see what courses are offered, so I can see if they are of interest.**
 
    - The six courses on offer are clearly listed within the Courses section.
    - Images relating to the subjects are used to draw the users attention.
@@ -33,19 +33,19 @@
 
     <img src="assets/images/testing/award-stacked.avif" alt="Screenshot of courses section">
 
-2. As a potential student, I want to see some general "about" text, so I can confirm that I am on the correct site for my needs.
+**2. As a potential student, I want to see some general "about" text, so I can confirm that I am on the correct site for my needs.**
 
    - The about section contains a paragraph of introductory text, letting the user quickly understand the purpose of the site.
 
     <img src="assets/images/testing/about-intro-section.avif" alt="Screenshot of about introduction section">
 
-3. As a potential student, I want to see facts and figures on student satisfaction, so I can gauge whether I want to enroll.
+**3. As a potential student, I want to see facts and figures on student satisfaction, so I can gauge whether I want to enroll.**
 
    - The about section contains information on the student satisfaction.
 
     <img src="assets/images/testing/about-student-satisfaction-section.avif" alt="Screenshot of student satisfaction section">
 
-4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.
+**4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.**
 
    - The contact section has a form to send the college a questions/messages.
 
@@ -78,11 +78,12 @@
 - All images are displayed at an acceptable size ratio on all screens.
 - Images in the Award Winning area change size and positioning at acceptable break points.
 <img  src="assets/images/testing/award-2-columns.avif"  alt="Award Winning images in 2 columns">
+---
 <img  src="assets/images/testing/award-stacked.avif"  alt="Award Winning images in a single columns">
 
 - Images in the Student Satisfaction area change size and positioning at acceptable break points.
 <img  src="assets/images/testing/satisfaction-2-columns.avif"  alt="Student Satisfaction images in 2 columns">
-
+---
 <img  src="assets/images/testing/satisfaction-stacked.avif"  alt="Student Satisfaction images in a single columns">
 
 - The form and map in the Contact section stack at an acceptable break point.
@@ -124,12 +125,12 @@ The site was tested on the following browsers:
 
 ## Code Validation
 
-## HTML
+### HTML
 
 The [W3C Markup Validator](https://validator.w3.org/) was used to validate the HTML. This detected three warnings relating to only using h1 elements as top-level headings. This was ignored because the use of h1's fitted the design of the site, especially as a one-page design.
 <img src="assets/images/testing/html-validation.avif" alt="The three warnings detected by the HTML validator">
 
-## CSS
+### CSS
 
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors were found.  Two warnings were detected, stating:
 - Imported style sheets are not checked in direct input and file upload modes.
