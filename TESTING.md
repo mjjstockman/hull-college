@@ -4,7 +4,7 @@
 
 [View live project](https://mjjstockman.github.io/hull-college)
 
----
+***
 
 # Table of Contents
 
@@ -18,7 +18,7 @@
 4. [User Testing](#User-Testing)
 5. [Issues and Bugs](#Issues-and-Bugs)
 
----
+***
 
 # Testing User Stories
 
@@ -78,12 +78,16 @@
 - All images are displayed at an acceptable size ratio on all screens.
 - Images in the Award Winning area change size and positioning at acceptable break points.
 <img  src="assets/images/testing/award-2-columns.avif"  alt="Award Winning images in 2 columns">
-- - -
+
+***
+
 <img  src="assets/images/testing/award-stacked.avif"  alt="Award Winning images in a single columns">
 
 - Images in the Student Satisfaction area change size and positioning at acceptable break points.
 <img  src="assets/images/testing/satisfaction-2-columns.avif"  alt="Student Satisfaction images in 2 columns">
-- - -
+
+***
+
 <img  src="assets/images/testing/satisfaction-stacked.avif"  alt="Student Satisfaction images in a single columns">
 
 - The form and map in the Contact section stack at an acceptable break point.
