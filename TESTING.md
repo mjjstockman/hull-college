@@ -31,7 +31,7 @@
    - The name of the course is in block capitals and in a different colour the body text to stand out.
    - Icons from Font Awesome are used before and after the courses heading, once again to draw the users attention and make the subjects more memorable.
 
-    <img src="assets/images/testing/award-stacked.avif" alt="Courses section">
+    <img src="assets/images/testing/courses-section.avif" alt="Courses section">
 
 **2. As a potential student, I want to see some general "about" text, so I can confirm that I am on the correct site for my needs.**
 

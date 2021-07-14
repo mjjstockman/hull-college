@@ -2,7 +2,7 @@
 
 <img  src="assets/images/readme/amiresponsive.avif"  alt="Mockup of the Hull College website on a phone, tablet, laptop and monitor screen">
 
-*Image created and taken from [Am I Responsive](ami.responsivedesign.is)*
+*Image created and taken from [Am I Responsive](ami.responsivedesign.is).*
 
 [View the live project here](https://mjjstockman.github.io/hull-college).
 
@@ -148,6 +148,9 @@ A small box containing introductory information is placed below the hero image. 
 A brief description of the four awards the college has won is displayed under cartoon images of awards. Beneath these are statistics of student success and recommendations. These help to install confidence in the quality of the college and help conversion rates of those viewing the site to enrol. Larger screens display the awards and statistics four in a row, reducing to two and then stacked on top of each other as screens get smaller. This is to give the user the best experience in terms of accessibility and usability. These sections mirror each other to help give the site a sense of balance.
 
 <img  src="assets/images/readme/award.avif"  alt="Award Winning area">
+
+***
+
 <img  src="assets/images/readme/satisfaction.avif"  alt="Student Satisfaction area">
 
 [Back to top ⇧](#Hull-College)
