@@ -31,25 +31,25 @@
    - The name of the course is in block capitals and in a different colour the body text to stand out.
    - Icons from Font Awesome are used before and after the courses heading, once again to draw the users attention and make the subjects more memorable.
 
-    <img src="assets/images/testing/award-stacked.avif" alt="Screenshot of courses section">
+    <img src="assets/images/testing/award-stacked.avif" alt="Courses section">
 
 **2. As a potential student, I want to see some general "about" text, so I can confirm that I am on the correct site for my needs.**
 
    - The about section contains a paragraph of introductory text, letting the user quickly understand the purpose of the site.
 
-    <img src="assets/images/testing/about-intro-section.avif" alt="Screenshot of about introduction section">
+    <img src="assets/images/testing/about-intro-section.avif" alt="Introduction text area">
 
 **3. As a potential student, I want to see facts and figures on student satisfaction, so I can gauge whether I want to enroll.**
 
    - The about section contains information on the student satisfaction.
 
-    <img src="assets/images/testing/about-student-satisfaction-section.avif" alt="Screenshot of student satisfaction section">
+    <img src="assets/images/testing/about-student-satisfaction-section.avif" alt="Student satisfaction area">
 
 **4. As a potential student, I want to be able to contact the college so that I can ask any questions I have.**
 
    - The contact section has a form to send the college a questions/messages.
 
-    <img src="assets/images/testing/contact-section-form.avif" alt="Screenshot of student satisfaction section">
+    <img src="assets/images/testing/contact-section-form.avif" alt="Contact section form">
 
 [Back to top ⇧](#Hull-College-Testing)
 
