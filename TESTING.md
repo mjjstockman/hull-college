@@ -121,10 +121,18 @@ The following devices and orientation were tested:
 The site was tested on the following browsers:
 
 - Chrome
-- Safari
-- Edge
+- Safari 
 - Opera
 - Firefox
+
+# Bugs Found
+
+## Use of AVIF's
+The AVIF format was used for all images, in an attempt to reduce file size.  When testing on the above browsers, it was found that the AVIF format is [not yet widely supported](https://caniuse.com/?search=AVIF).
+
+A decision was therefore made to convert the images back to a suitable file format.
+
+
 
 # Automated Testing
 
