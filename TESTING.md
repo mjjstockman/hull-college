@@ -32,19 +32,19 @@
    - Icons from Font Awesome are used before and after the courses heading, once again to draw the users attention and make the subjects more memorable.
 
 
-    <img src="assets/images/testing/courses-section.avif" alt="Courses section">
+    <img src="assets/images/readme/courses-large.jpg" alt="Courses section">
 
 2. **As a potential student, I want to see some general "about" text, so I can confirm that I am on the correct site for my needs.**
 
    - The about section contains a paragraph of introductory text, letting the user quickly understand the purpose of the site.
 
-    <img src="assets/images/testing/about-intro-section.avif" alt="Introduction text area">
+    <img src="assets/images/readme/about-box.jpg" alt="Introduction text area">
 
 3. **As a potential student, I want to see facts and figures on student satisfaction, so I can gauge whether I want to enroll.**
 
    - The about section contains information on the student satisfaction.
 
-    <img src="assets/images/testing/about-student-satisfaction-section.avif" alt="Student satisfaction area">
+    <img src="assets/images/readme/satisfaction-large.jpg" alt="Student satisfaction area">
 
 4. **As a potential student, I want to be able to contact the college so that I can ask any questions I have.**
 
