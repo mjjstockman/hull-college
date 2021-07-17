@@ -50,7 +50,7 @@
 
    - The contact section has a form to send the college a questions/messages.
 
-    <img src="assets/images/testing/contact-section-form.avif" alt="Contact section form">
+    <img src="assets/images/testing/form.jpg" alt="Contact section form">
 
 [Back to top ⇧](#Hull-College-Testing)
 
