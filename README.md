@@ -1,8 +1,8 @@
 # Hull College
 
-<img  src="assets/images/readme/amiresponsive.avif"  alt="Mockup of the Hull College website on a phone, tablet, laptop and monitor screen">
+<img  src="assets/images/readme/amiresponsive.jpg"  alt="Mockup of the Hull College website on a phone, tablet, laptop and monitor screen">
 
-*Image created and taken from [Am I Responsive](ami.responsivedesign.is).*
+*Image created and taken from [Am I Responsive?](ami.responsivedesign.is).*
 
 [View the live project here](https://mjjstockman.github.io/hull-college).
 
@@ -67,7 +67,7 @@ The target market are individuals who are wanting to find out more about the col
 
 | Small screens | Medium screens | Largescreens |
 | --------------| -------------- | ------------ |
-| <img  src="assets/images/readme/wireframe-small.avif"  alt="Wireframe of small screen"> | <img  src="assets/images/readme/wireframe-medium.avif"  alt="Wireframe of medium screen"> | <img  src="assets/images/readme/wireframe-large.avif"  alt="Wireframe of large screen"> |
+| <img  src="assets/images/readme/wireframe-small.jpg"  alt="Wireframe of small screen"> | <img  src="assets/images/readme/wireframe-medium.jpg"  alt="Wireframe of medium screen"> | <img  src="assets/images/readme/wireframe-large.jpg"  alt="Wireframe of large screen"> |
 
 *Images created and taken from [Balsamiq](https://balsamiq.com/wireframes)*
 
