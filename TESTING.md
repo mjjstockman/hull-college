@@ -73,7 +73,7 @@
 
 - The logo is centered and the navigation drops at a maximum screen width of 689px.
 
-<img  src="assets/images/testing/nav-stacked.avif"  alt="The header with logo on top and navigation below">
+<img  src="assets/images/testing/header-stacked.jpg"  alt="The header with logo on top and navigation below">
 
 - The navigation links highlights changes at acceptable scroll points.
 - All images are displayed at an acceptable size ratio on all screens.
@@ -85,7 +85,7 @@
 <img  src="assets/images/testing/award-stacked.avif"  alt="Award Winning images in a single columns">
 
 - Images in the Student Satisfaction area change size and positioning at acceptable break points.
-<img  src="assets/images/testing/satisfaction-2-columns.avif"  alt="Student Satisfaction images in 2 columns">
+<img  src="assets/images/testing/satisfaction-two-columns.jpg"  alt="Student Satisfaction images in 2 columns">
 
 ***
 
