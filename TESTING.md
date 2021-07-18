@@ -82,12 +82,8 @@
 
 <img  src="assets/images/testing/award-stacked.jpg"  alt="Award Winning images in a single column">
 
-***
-
 - Images in the Student Satisfaction area change size and positioning at acceptable break points.
 <img  src="assets/images/testing/satisfaction-2-cols.jpg"  alt="Student Satisfaction images in 2 columns">
-
-***
 
 <img  src="assets/images/testing/satisfaction-stacked.jpg"  alt="Student Satisfaction images in a single column">
 
