@@ -78,21 +78,17 @@
 - The navigation links highlights changes at acceptable scroll points.
 - All images are displayed at an acceptable size ratio on all screens.
 - Images in the Award Winning area change size and positioning at acceptable break points.
-<img  src="assets/images/testing/award-2-columns.avif"  alt="Award Winning images in 2 columns">
+<img  src="assets/images/testing/award-2-cols.jpg"  alt="Award Winning images in 2 columns">
 
 ***
-
-<img  src="assets/images/testing/award-stacked.avif"  alt="Award Winning images in a single columns">
 
 - Images in the Student Satisfaction area change size and positioning at acceptable break points.
-<img  src="assets/images/testing/satisfaction-two-columns.jpg"  alt="Student Satisfaction images in 2 columns">
+<img  src="assets/images/testing/satisfaction-2-cols.jpg"  alt="Student Satisfaction images in 2 columns">
 
 ***
 
-<img  src="assets/images/testing/satisfaction-stacked.avif"  alt="Student Satisfaction images in a single columns">
-
 - The form and map in the Contact section stack at an acceptable break point.
-<img  src="assets/images/testing/contact-stacked.avif"  alt="Contact section stacked in single columns">
+<img  src="assets/images/testing/contact-stacked.jpg"  alt="Contact section stacked in single columns">
 
 *Please note the empty box at the bottom displays a map on the deployed site.*
 
