@@ -137,15 +137,14 @@ A decision was therefore made to convert the images back to a suitable file form
 ### HTML
 
 The [W3C Markup Validator](https://validator.w3.org/) was used to validate the HTML. This detected three warnings relating to only using h1 elements as top-level headings. This was ignored because the use of h1's fitted the design of the site, especially as a one-page design.
-<img src="assets/images/testing/html-validation.avif" alt="The three warnings detected by the HTML validator">
+<img src="assets/images/testing/html-validation.jpg" alt="The three warnings detected by the HTML validator">
 
 ### CSS
 
-The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors were found.  Two warnings were detected, stating:
-- Imported style sheets are not checked in direct input and file upload modes.
+The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors were found.  One warning was detected, stating:
 - -webkit-sticky is an unknown vendor extension
 
-<img src="assets/images/testing/css-validation.avif" alt="The two CSS validation warnings">
+<img src="assets/images/testing/css-validation.jpg" alt="The two CSS validation warnings">
 
 These were not acted upon as they are deemed to be acceptable warnings.
 
@@ -190,6 +189,6 @@ The page was taking a long time to load. This was fixed by reducing the file siz
 The sticky header (with the logo and navigation) initially displayed behind the iframe map. This issue was solved by adding a z-index of 1 to the header. This suggestion was found [here](https://stackoverflow.com/questions/52091989/embedded-iframe-video-overlap-the-fixed-navbar-while-scrolling).
 
 The [HTML Validator](https://validator.w3.org) showed errors for the description and keywords meta tags in the head. This was due to mismatching quotation marks, as seen below:
-<img src="assets/images/testing/quotation.avif" alt="Inccorect quotation marks for meta tags">
+<img src="assets/images/testing/quotation.jpg" alt="Inccorect quotation marks for meta tags">
 
 [Back to top ⇧](#Hull-College-Testing)
