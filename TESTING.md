@@ -80,12 +80,16 @@
 - Images in the Award Winning area change size and positioning at acceptable break points.
 <img  src="assets/images/testing/award-2-cols.jpg"  alt="Award Winning images in 2 columns">
 
+<img  src="assets/images/testing/award-stacked.jpg"  alt="Award Winning images in a single column">
+
 ***
 
 - Images in the Student Satisfaction area change size and positioning at acceptable break points.
 <img  src="assets/images/testing/satisfaction-2-cols.jpg"  alt="Student Satisfaction images in 2 columns">
 
 ***
+
+<img  src="assets/images/testing/satisfaction-stacked.jpg"  alt="Student Satisfaction images in a single column">
 
 - The form and map in the Contact section stack at an acceptable break point.
 <img  src="assets/images/testing/contact-stacked.jpg"  alt="Contact section stacked in single columns">
@@ -146,7 +150,7 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validat
 
 <img src="assets/images/testing/css-validation.jpg" alt="The two CSS validation warnings">
 
-These were not acted upon as they are deemed to be acceptable warnings.
+This was not acted upon as it was deemed to be an acceptable warning.
 
 [Back to top ⇧](#Hull-College-Testing)
 
