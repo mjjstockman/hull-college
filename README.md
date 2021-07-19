@@ -190,6 +190,8 @@ Add a dropdown to each course in the Courses section containing information on t
 
 Add script to dynamically display how many characters are left for the form textarea.
 
+Remove inline JavaScript in index.html into a separate script folder.  This was not done as it was outside the scope of the project.
+ 
 The active navigation highlighting does not always work correctly on scroll.  This feature was not fixed as the use of JavaScript is outside the scope of the project.
 
 # Technologies Used
