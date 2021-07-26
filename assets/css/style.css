@@ -310,6 +310,7 @@ input[type=submit] {
 	width: 100%;
 }
 
+/* styling taken from embedmymap */
 .gmap_canvas {
 	float: right;
 	overflow: hidden;
@@ -319,6 +320,7 @@ input[type=submit] {
 	border-radius: 15px;
 }
 
+/* styling taken from embedmymap */
 .gmap_iframe {
 	height: 604px !important;
 	width: 100%;
