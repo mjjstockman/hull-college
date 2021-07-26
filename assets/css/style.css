@@ -262,7 +262,7 @@ form {
 }
 
 #accent-color {
-	color:#800080;
+	color: #800080;
 }
 
 
@@ -359,7 +359,6 @@ footer {
 
 
 /* fix issue with nav not showing correct active highlight */
-
 
 @media screen and (max-width: 952px) {
 	/* about section */
