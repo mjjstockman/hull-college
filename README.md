@@ -272,6 +272,7 @@ Many thanks to the following which were used throughout the creation of this sit
 - [Balsamiq](https://balsamiq.com/)
 - [Coolors](https://coolors.co/)
 - [Design Course tutorial](https://www.youtube.com/watch?v=z9H7p1_iI14)
+- [Embed My Map](https://www.embedmymap.com/)
 - [Favicon.io](https://favicon.io)
 - [Font Awesome](https://fontawesome.com)
 - [Free Formatter](https://www.freeformatter.com/)
