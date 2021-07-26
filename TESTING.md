@@ -141,8 +141,7 @@ The [W3C Markup Validator](https://validator.w3.org/) was used to validate the H
 
 ### CSS
 
-The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors were found.  One warning was detected, stating:
-- -webkit-sticky is an unknown vendor extension
+The [W3C CSS Validator](https://jigsaw.w3.org/css-validator) was used to validate the CSS and no errors or warnings were found.
 
 <img src="assets/images/testing/css-validation.jpg" alt="The two CSS validation warnings">
 
